@@ -24,7 +24,7 @@ a:hover {
 <div id="indice" class="col-md-4 indice"></div>
 
 <div class="col col-md-8">
-<h1>Fastplay Avengard Alfa 1.1</h1>
+<h1>Fastplay Avengard Alfa 1.1_</h1>
 <p>Esta é a versão alfa 1.1 de testes de mecânicas do RPG Avengard utilizando um sistema baseado em testes com o dado de 12 faces, e personagens montados em cima de classes, ainda não contemplando regras evolutivas.</p>
 <p>Em comparação a versão anterior, esta reformulou as classes, transferiu para a classe a responsabilidade pelo cálculo do vigor, separou as habilidades de combate das demais habilidades, e desindexou elas da destreza e indexou a orientações da classe e reformulou a tabela de armaduras dividindo apenas entre leves e pesadas.<br/><br/></p>
 <p>Este sistema usará cinco tipos de dados diferentes, com quatro, seis, oito, dez e doze faces, que serão chamados respectivamente no decorrer deste texto de d4, d6, d8, d10 e d12.</p>
