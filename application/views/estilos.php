@@ -1,6 +1,7 @@
 body {
   color: #bfbfb3;
-  font-family: 'Average', serif;
+  /* font-family: 'Average', serif; */
+  font-family: 'Lora', serif;
 }
 a {
   color: #c98d7d;
@@ -12,10 +13,12 @@ a:hover {
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Marcellus', serif;
+  text-transform: uppercase;
 }
+
 header {
   height: 472px;
-  background-image: url('<?php echo base_url('assets/') ?>img/home.jpg');
+  background-image: url('<?php echo base_url('assets/') ?>img/home<?=(isset($imagemDeFundo) ? $imagemDeFundo : '') ?>.jpg');
   background-size: cover;
   background-position: center center;
   color: #dddecc;
@@ -51,33 +54,7 @@ header .black-box {
 .miolo {
   background-image: url('<?php echo base_url('assets/') ?>img/fundo-cinza.png');
 }
-.sistema {
-  background-image: url('<?php echo base_url('assets/') ?>img/fundo-claro.png');
-  color: #4c4235;
-  padding: 100px 0;
-}
-.sistema h1,
-.sistema h2,
-.sistema h3,
-.sistema h4 {
-  font-weight: bold;
-  color: #7b4428;
-  margin: 30px 0 10px 0;
-}
-.sistema img {
-  width: 100%;
-}
-.sistema table p {
-  margin: 0;
-  font-size: 0.9rem;
-}
-.sistema .table td,
-.sistema .table th {
-    border-top: 1px solid #0000000d;
-}
-.sistema .table tr:first-child {
-    font-weight: bold;
-}
+
 .navbar-brand img {
   width: 192px;
 }
@@ -180,6 +157,11 @@ footer {
     color: #21c25e;
     font-size: 18px;
 }
+.beta {
+    font-size: 0.7rem;
+    position: relative;
+    top: -5px;
+}
 @media(max-width:770px) {
   header .black-box {
     margin: 0 -15px;
@@ -187,5 +169,18 @@ footer {
   .direita {
     text-align: center;
     padding-bottom: 50px;
+  }
+  nav {
+    background-color: #1a2527;
+    margin-bottom: 0;
+  }
+  header .textura > div {
+    padding-top: 0;
+  }
+  header .textura {
+    height: unset;
+  }
+  header {
+    height: unset;
   }
 }

@@ -1,0 +1,29 @@
+version: '3'
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: codeigniter-app
+    volumes:
+      - .:/var/www/html
+    ports:
+      - "8080:80"
+    networks:
+      - codeigniter-network
+
+  db:
+    image: mysql:5.7
+    container_name: codeigniter-db
+    environment:
+      MYSQL_DATABASE: sua_base_de_dados
+      MYSQL_USER: seu_usuario
+      MYSQL_PASSWORD: sua_senha
+      MYSQL_ROOT_PASSWORD: sua_senha_do_root
+    ports:
+      - "3306:3306"
+    networks:
+      - codeigniter-network
+
+networks:
+  codeigniter-network:

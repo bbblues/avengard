@@ -13,8 +13,8 @@
 	<meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css2?family=Average&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=Lora&display=swap" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="icon" type="image/png" href="<?php echo base_url('assets/') ?>img/favicon.png" />
 	<style media="screen">
 		<?php include 'estilos.php'; ?>
@@ -35,8 +35,11 @@
 		      <li class="nav-item <?=($menu == 'home') ? 'active' : ''?>">
 		        <a class="nav-link" href="<?php echo site_url() ?>">Home</span></a>
 		      </li>
+		      <li class="nav-item <?=($menu == 'bestiario') ? 'active' : ''?>">
+		        <a class="nav-link" href="<?php echo site_url('bestiario') ?>">Bestiário</a>
+		      </li>
 		      <li class="nav-item <?=($menu == 'sistema') ? 'active' : ''?>">
-		        <a class="nav-link" href="<?php echo site_url('sistema/_1_1') ?>">fastplay</a>
+		        <a class="nav-link" href="<?php echo site_url('sistema') ?>">Regras <span class="beta">BETA</span></a>
 		      </li>
 		    </ul>
 		  </div>

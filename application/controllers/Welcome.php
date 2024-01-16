@@ -26,10 +26,20 @@ class Welcome extends CI_Controller {
 		$this->load->view('index',$data);
 	}
 
-	public function sistema($v="")
+	public function sistema($v="introducao")
 	{
 		$data['menu'] = "sistema";
-		$data['page'] = "sistema".$v.".php";
+		$data['page'] = "sistema.php";
+		$data['capitulo'] = $v;
+		$data['fundo'] = "sistema";
+		$this->load->view('index',$data);
+	}
+
+	public function bestiario()
+	{
+		$data['menu'] = "sistema";
+		$data['page'] = "sistema.php";
+		$data['capitulo'] = $v;
 		$data['fundo'] = "sistema";
 		$this->load->view('index',$data);
 	}

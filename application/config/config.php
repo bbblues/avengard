@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://avengard.web2204.uni5.net/';
-if ($_SERVER['HTTP_HOST'] == "localhost") {
-  $config['base_url'] = 'http://localhost/avengard2/';
+$config['base_url'] = 'https://avengard.com.br/';
+if ($_SERVER['HTTP_HOST'] == "localhost:8080") {
+  $config['base_url'] = 'http://localhost:8080';
 }
 
 /*
