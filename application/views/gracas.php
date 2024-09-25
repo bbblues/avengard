@@ -1,402 +1,289 @@
-<h2>Gra&ccedil;as divinas</h2>
-
-<p>Quando os humanos iniciaram a coloza&ccedil;&atilde;o em Avengard um impasse pairava sobre o conclave divino: extinguir ou n&atilde;o essas criaturas ap&oacute;crifas. Para sorte da humanidade, muitas pessoas, devido a sua personalidade, cairam nas gra&ccedil;as divinas, que por sua vez retribuiram com ben&ccedil;&otilde;s.</p>
-
-<p>O arautos, como s&atilde;o chamados os agraciados, s&atilde;o pessoas que aceitaram uma vida de subservi&ecirc;ncia ao pante&atilde;o. Este aceite traz consigo uma miss&atilde;o, que mais pode ser chamado de fardo, mas que se torna compensat&oacute;rio devido as gra&ccedil;as divinas.</p>
-
-<h3>Pontos de f&eacute;</h3>
-
-<p>Avengard possui seis doutrinas, uma para cada deus. Cada um dessas doutrinas possui cinco graus: ac&oacute;lito, iniciado, devoto, harmonista e tomo. No in&iacute;cio de sua jornada, o personagem dever&aacute; ter o grau ac&oacute;lito em uma das seis doutrinas, e cada grau em uma doutrina lhe permite acumular um ponto de f&eacute; a ela.</p>
-
-<p>Os pontos de f&eacute; podem ser restaurados queimando incensos em altares que se encontram em templos, capelas e encruzilhadas. Enquanto o inceso queima, o arauto ora pela divindade e assim recupera todos os pontos que pode acumular em rela&ccedil;&atilde;o a ela. &Eacute; muito comum que arautos peregrinem criando altares dos Seis nos ermos de Avengard. Caso n&atilde;o encontre um altar pr&oacute;ximo, um poder&aacute; ser constru&iacute;do levando de 1 dia de trabalho usando os materiais encontrados no local.</p>
-
-<p>Existe um incenso correto para cada deus:</p>
-
-<p><b>Ak&#39;na: </b>Incenso de Jasmim</p>
-
-<p><i>O jasmim &eacute; associado &agrave; pureza, esperan&ccedil;a e renova&ccedil;&atilde;o, refletindo a natureza da divindade do amanhecer. Seu aroma suave e floral cria uma atmosfera reconfortante, semelhante &agrave; serenidade que Ak&#39;na representa.</i></p>
-
-<p><b>Rivenya:</b> incenso de Lavanda</p>
-
-<p><i>A lavanda &eacute; conhecida por suas propriedades calmantes e inspiradoras. O aroma suave e floral desta planta pode evocar a sensa&ccedil;&atilde;o de liberdade e renova&ccedil;&atilde;o, alinhando-se &agrave; esfera de influ&ecirc;ncia de Rivenya.</i></p>
-
-<p><b>Thalios: </b>incenso de S&acirc;ndalo</p>
-
-<p><i>O s&acirc;ndalo &eacute; associado &agrave; estabilidade e for&ccedil;a. Seu aroma terroso e amadeirado &eacute; escolhido para representar a influ&ecirc;ncia de Thalios sobre as vastas plan&iacute;cies, conferindo uma sensa&ccedil;&atilde;o de solidez e prote&ccedil;&atilde;o.</i></p>
-
-<p><b>Etheria: </b>incenso de Mirra</p>
-
-<p><i>A mirra &eacute; frequentemente ligada &agrave; espiritualidade e &agrave; conex&atilde;o com o divino. Seu aroma resinoso e terroso pode simbolizar a misteriosa presen&ccedil;a de Etheria, conectando o mundo material ao celestial.</i></p>
-
-<p><b>Draven: </b>incenso de Eucalipto</p>
-
-<p><i>O eucalipto &eacute; conhecido por suas propriedades purificadoras e revigorantes. Este aroma fresco e herbal pode refletir a divindade das florestas, incentivando a busca pela verdade e pureza.</i></p>
-
-<p><b>Erebos: </b>incenso de Ol&iacute;bano</p>
-
-<p><i>O ol&iacute;bano, tamb&eacute;m conhecido como franquincenso, &eacute; associado &agrave; espiritualidade, purifica&ccedil;&atilde;o e conex&atilde;o com planos superiores. Seu aroma profundo e resinoso &eacute; apropriado para a divindade que decide o destino das almas e mant&eacute;m o equil&iacute;brio c&oacute;smico.</i></p>
-
-<img src="<?=base_url('assets/img/orando.png')?>" alt="">
-
-<h3>O fardo pante&ocirc;nico</h3>
-
-<p>Todas as seis doutrinas de Avengard possuem dogmas, e cabe ao arauto aplicar esses d&oacute;gmas em sua exist&ecirc;ncia, e esse &eacute; o seu fardo. Um d&oacute;gma n&atilde;o cumprido pode causar o desgosto de algum deus, privando temporariamente o arauto de suas ben&ccedil;&atilde;os. A priva&ccedil;&atilde;o pode durar dia ou meses, dependendo da gravidade do delito cometido.</p>
-
-<p>Os seres humanos, apesar de serem criat&uacute;ras ap&oacute;crifas, ca&iacute;ram nas gra&ccedil;as dos deuses, e por isso a vida humana &eacute; considerada sagrada, e o arauto deve respeit&aacute;-la. Ceifar uma vida &eacute; um recurso que s&oacute; deve ser utilizado em leg&iacute;tma defesa, e por isso o arauto usa somente armas de baixa letalidade. Retirar uma vida de forma leviana leva o arauto a uma semana de priva&ccedil;&atilde;o as ben&ccedil;&atilde;os de todos os deuses.</p>
-
-<p><b>Ak&#39;na </b>ordena que seus escolhidos ajudem os necessitados e os enfermos, dando-lhes abrigo, rem&eacute;dios e assist&ecirc;ncia.</p>
-
-<p><b>Rivenya </b>se ocupa em acabar com a escravid&atilde;o. Cabe o arauto procurar intervir quando se deparar com a situa&ccedil;&atilde;o e buscar uma solu&ccedil;&atilde;o por meios n&atilde;o violentos, se poss&iacute;vel. A verdade tamb&eacute;m faz parte da diretriz dogm&aacute;tica da deusa, portanto, mentir est&aacute; fora de cogita&ccedil;&atilde;o.</p>
-
-<p><b>Thalios </b>se ocupa de representar a justi&ccedil;a, para ele toda explora&ccedil;&atilde;o deve ser findada. Uma situa&ccedil;&atilde;o clara de injusti&ccedil;a n&atilde;o deve ser negligenciada pelo arauto.</p>
-
-<p><b>Etheria </b>se ocupa de purificar todo o resqu&iacute;cio de magia &eacute;lfica corrompida, como os mortos-vivos e as madi&ccedil;&otilde;es. Entretanto, ela se alegra quando os humanos utilizam objetos encantados pois estes usam o &Eacute;ter puro.</p>
-
-<p><b>Draven </b>&eacute; a entidade que protege a natureza, e ele espera o mesmo comprometimento de seus arautos. As queimadas e os maltratos animais causam-lhe muito desgosto.</p>
-
-<p><b>Erebos </b>tem como seu objetivo, devolver os seres extra-planares a seus respectivos planos, e caso n&atilde;o seja poss&iacute;vel, elimin&aacute;-los.</p>
-
-<p>N&atilde;o seguir os dogmas espec&iacute;ficos de cadas um dos deuses deve ser punido com a priva&ccedil;&atilde;o, e cabe ao narrador definir o tempo da pena. Em algumas situa&ccedil;&otilde;es, o arauto pode acabar realizando um feito importante, que favorece a um dogma divino. O narrador pode presente&aacute;-lo com pontos de f&eacute; ou algum outro tipo de interven&ccedil;&atilde;o divina.</p>
-
-<h3>Gra&ccedil;as conhecidas de cada divindade</h3>
-
-<p>Cada uma das entidades pante&ocirc;nicas est&aacute; relacionada a uma esfera de a&ccedil;&atilde;o, que por sua vez se manifesta do tipo de gra&ccedil;a concedida. Ak&#39;na se manifesta atrav&eacute;z da cura e da esperan&ccedil;a, &eacute; a vida em si, Rivenia tr&aacute;s consigo o c&eacute;u, a liberdade e a mudan&ccedil;a. Thalios concede a for&ccedil;a e os meios para se batalhar, Etheria domina o &Eacute;ter, o Miska e as conex&otilde;es m&aacute;gicas, Draven traz consigo a natureza, a travessura e a juventude, e por fim Erebos, o senhor que tece a teia do destino e guarda as portas entre os mundos.</p>
-
-<p>Em Avengard incentivamos que tanto jogador quanto narrador utilizem sua criatividade e acrescentem novas gra&ccedil;as que possam ter rela&ccedil;&atilde;o com a aventura que est&aacute; sendo jogada. Deve-se utilizar a lista abaixo como um ponto de refer&ecirc;ncia para isso, e lembrar que a &uacute;ltima palavra sobre qualquer gra&ccedil;a criada &eacute; do narrador, cabe a ele definir se o item se enquadra no enredo e divindade, e se est&aacute; devidamente balanceado.</p>
-
-<img src="<?=base_url('assets/img/akna.png')?>" alt="">
-
-<h3>Ak&#39;na</h3>
-
-<hr>
-
-<h4>Prote&ccedil;&atilde;o contra morte</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 8h</p>
-
-<p><b>Objetivo:</b> garantir que um alvo agraciado n&atilde;o morra ao ter sua vitalidade atingida zero. Se chegar a zero, o alvo protegido fica com 1 ponto de vitalidade e a prote&ccedil;&atilde;o acaba.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Esfera de prote&ccedil;&atilde;o</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> criar uma esfera translucida, quase invis&iacute;vel, de 6m de raio, centrada no arauto mesmo em movimento, que praticamente impede que qualquer criatura viva (aliada ou n&atilde;o) possa fazer mal a outra dentro dela. Para conseguir deve-se fazer um teste de karma com penalidade 10.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto levanta seus bra&ccedil;os. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Proteger</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> rogar para que Ak&#39;na agracie o alvo com uma por&ccedil;&atilde;o de sua aten&ccedil;&atilde;o, aumentando temporariamente sua guarda em um ponto.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Prote&ccedil;&atilde;o f&iacute;sica</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> rogar para que Ak&#39;na agracie o alvo com o seu manto de prote&ccedil;&atilde;o, que aumenta a prote&ccedil;&atilde;o do arauto em 3 pontos durante 1h.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a gesticula passando seus bra&ccedil;os em volta de si. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Cura</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> imediato</p>
-
-<p><b>Objetivo:</b> encerrar uma doen&ccedil;a ou uma condi&ccedil;&atilde;o n&atilde;o m&aacute;gica que a aflija. A condi&ccedil;&atilde;o pode ser cegueira, surdez, paralisia, bra&ccedil;o quebrado ou envenenamento.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Restaura&ccedil;&atilde;o</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> imediato</p>
-
-<p><b>Objetivo:</b> restaurar 1d12 de de vitalidade do alvo.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Restaura&ccedil;&atilde;o coletiva</h4>
-
-<p><b>Divindade: </b>Ak&#39;na &nbsp;| &nbsp;<b>Custo:</b> 3 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> imediato</p>
-
-<p><b>Objetivo:</b> criar uma esfera translucida, quase invis&iacute;vel, de 2m de raio, centrada no arauto mesmo em movimento. Todos os que se encontram dentro restauram 2d8 de de vitalidade.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<img src="<?=base_url('assets/img/rivenya2.png')?>" alt="">
-
-<h3>Rivenya &nbsp;</h3>
-
-<hr>
-
-<h4>Compreender idiomas</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> fazer com que o alvo compreenda qualquer linguagem escrita ou falada durante o per&iacute;odo de 1h.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Pressentir amea&ccedil;as</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> presentir alguma fonte de amea&ccedil;as em um ambiente ou objeto espec&iacute;fico. Pode ser uma sala que esteja a frente, um ba&uacute;, caix&atilde;o ou algo similar. O arauto deve ser espec&iacute;fico ao apontar o local, que n&atilde;o deve ter mais de 40m&sup2;.</p>
-
-<p><b>Procedimento:</b> o arauto fecha os olhos, abre suas m&atilde;o e aponta as palmas na dire&ccedil;&atilde;o do alvo a ser analisado. Ao fim do processo (1 turno ou 1 minuto) ele ter&aacute; a resposta de Rivenya sussurada em seus ouvidos.</p>
-
-<h4>Esfera da verdade</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> criar uma esfera translucida, quase invis&iacute;vel, de 6m de raio, centrada no arauto mesmo em movimento. Dentro deste ambiente &eacute; dif&iacute;cil proferir uma mentira, a n&atilde;o ser que quem diga n&atilde;o saiba que &eacute; uma mentira. Mentir requer um teste de karma com penalidade 10.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto levanta seus bra&ccedil;os. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Vendaval</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> concentra&ccedil;&atilde;o</p>
-
-<p><b>Objetivo:</b> criar uma corrente de vento t&atilde;o forte que pode empurrar os advers&aacute;rios para tr&aacute;s. Em combate o alcance &eacute; de 3 faixas, fora 20m. Os ventos s&atilde;o projetados em forma de cone, partindo do arauto. Qualquer um que seja atingido precisa fazer um teste de for&ccedil;a com 5 de penalidade. Um sucesso permite se locomover contra o vento, uma falha n&atilde;o consegue passar de onde est&aacute;, e uma falha com (fa) 5 ou mais o vento o empurra 1 faixa ou 5 metros.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto abre uma das m&atilde;o e aponta a palma no sentido que deseja o vento. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Liberar</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> soltar ou liberar qualquer tranca, morda&ccedil;a, corrente, cadeado etc.</p>
-
-<p><b>Procedimento:</b> o arauto toca o objeto que tranca ou prende que se pulveriza instantaneamente.</p>
-
-<h4>Lummen</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> fazer com que um objeto de no m&aacute;ximo 10cm&sup3; brilhe com a for&ccedil;a de dez tochas durante 1h.</p>
-
-<p><b>Procedimento:</b> com as duas m&atilde;os levantadas e o objeto entre elas o arauto roga pela ilumina&ccedil;&atilde;o de Rivenya.</p>
-
-<h4>Retroceder</h4>
-
-<p><b>Divindade: </b>Rivenya &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> rolar novamente um teste em que se acabou de obter falha.</p>
-
-<p><b>Procedimento:</b> ao ver a falha acontecer, imediatamente o arauto invoca a maior gra&ccedil;a de Rivenya, mesmo que fora de seu turno. A deusa retrocede o tempo colocando todos em condi&ccedil;&atilde;o de testar novamente. Apenas o arauto sabe que o tempo foi retrocedido, para todos os outros a jogada com falha nunca aconteceu. Essa gra&ccedil;a reverte apenas uma jogada de erro, assim que ela acontecer.</p>
-
-<img src="<?=base_url('assets/img/thalios.png')?>" alt="">
-
-<h3>Thalios &nbsp;</h3>
-
-<hr>
-
-<h4>Bravura</h4>
-
-<p><b>Divindade: </b>Thalios &nbsp;| &nbsp;<b>Custo:</b> 2 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> levantar temporariamente (1h) 1 ponto de moral seu e de seus aliados. Caso o ponto seja gasto n&atilde;o ser&aacute; consumido da moral do personagem.</p>
-
-<p><b>Procedimento:</b> os olhos do arauto brilham como os do deus Thalios enquanto ele profere palavras em l&iacute;ngua divina. Todos os aliados em 10m de raio (5 faixas) recebem 1 ponto de moral tempor&aacute;rio.</p>
-
-<h4>Banhar arma</h4>
-
-<p><b>Divindade: </b>Thalios &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> banhar uma arma na gra&ccedil;a de Thalios para que ela cause 1d6 a mais de dano.</p>
-
-<p><b>Procedimento:</b> os olhos do arauto brilham como os do deus Thalios enquanto ele segura a arma e profere palavras em l&iacute;ngua divina. A arma brilhar&aacute; e causar&aacute; 1d6 a amis de dano durante 1h.</p>
-
-<h4>Arsenal de Thalios</h4>
-
-<p><b>Divindade: </b>Thalios &nbsp;| &nbsp;<b>Custo:</b> 2 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> uma arma espiritual se materializa na m&atilde;o do arauto. Essa arma tem seu dano igual a de uma arma comum, mas ela ignora armaduras, tanto o b&ocirc;nus de guarda quanto a prote&ccedil;&atilde;o. Ap&oacute;s 1h a arma se desmaterializa e some. A arma escolhida n&atilde;o tem efeito contra humanos.</p>
-
-<p><b>Procedimento:</b> os olhos do arauto brilham como os do deus Thalios enquanto ele profere palavras em l&iacute;ngua divina. A arma se materializa lentamente em sua m&atilde;o.</p>
-
-<h4>Vigor do combatente</h4>
-
-<p><b>Divindade: </b>Thalios &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> o combate</p>
-
-<p><b>Objetivo:</b> evocar a gra&ccedil;a de Thalios a si mesmo ou a um aliado, que recebe 1d12 de vitalidade extra, at&eacute; o fim do combate.</p>
-
-<p><b>Procedimento:</b> o arauto aponta para o alvo que deve estar em seu campo de vis&atilde;o e profere algumas palavras em l&iacute;gua divina. (leva 1 turno ou 1 minuto)</p>
-
-<h4>&Aacute;qua</h4>
-
-<p><b>Divindade: </b>Thalios &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> permanente</p>
-
-<p><b>Objetivo:</b> encher um recipiente de at&eacute; 5 litros, que esteja vazio, com &aacute;gua limpa.</p>
-
-<p><b>Procedimento:</b> o arauto coloca a palma da m&atilde;o sobre o recipiente, que deve estar vazio, e profere algumas palavras em l&iacute;gua divina. (leva 1 turno ou 1 minuto).</p>
-
-<h4>For&ccedil;a tempor&aacute;ria</h4>
-
-<p><b>Divindade: </b>Thalios &nbsp;| &nbsp;<b>Custo:</b> 2 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> aumentar seu pr&oacute;prio atributo for&ccedil;a em 4 pontos durante 1h.</p>
-
-<p><b>Procedimento:</b> os olhos do arauto brilham como os do deus Thalios enquanto ele profere palavras em l&iacute;ngua divina, durante 1 turno.</p>
-
-<img src="<?=base_url('assets/img/etheria.png')?>" alt="">
-
-<h3>Etheria &nbsp;</h3>
-
-<hr>
-
-<h4>Remover maldi&ccedil;&atilde;o</h4>
-
-<p><b>Divindade: </b>Etheria &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> remover qualquer tipo de maldi&ccedil;&atilde;o ou efeito negativo, n&atilde;o natural, que o alvo esteja exposto.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo ou a si mesmo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Desfazer morto-vivo</h4>
-
-<p><b>Divindade: </b>Etheria &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> desfazer o poder oculto que anima um morto-vivo alvo. Como resultado, o corpo inanimado cai no ch&atilde;o.</p>
-
-<p><b>Procedimento:</b> o arauto precisa conseguir tocar a cabe&ccedil;a do alvo com sua m&atilde;o, mesmo que por um segundo. Um teste de ataque desarmado ser&aacute; demandado. O arauto precisa saber qual o encantamento que anima aquele tipo de criatura. Isso consegue-se identificando ele uma &uacute;nica vez para cada tipo de criatura.</p>
-
-<h4>Remover encantamento</h4>
-
-<p><b>Divindade: </b>Etheria &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> desfazer a magia que transforma criaturas, como os carni&ccedil;ais, ou remover o encantamento de um item m&aacute;gico e armadilha m&aacute;gica. A criatura tocada morre na sequ&ecirc;ncia.</p>
-
-<p><b>Procedimento:</b> o arauto precisa conseguir tocar a cabe&ccedil;a do alvo com sua m&atilde;o ou o objeto, mesmo que por um segundo. Um teste de ataque desarmado ser&aacute; demandado. O arauto precisa saber qual o encantamento que anima aquele tipo de criatura. Isso consegue-se identificando ele uma &uacute;nica vez para cada tipo de criatura.</p>
-
-<h4>Identificar encantamento</h4>
-
-<p><b>Divindade: </b>Etheria &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> identificar se um alvo, criatura ou objeto, possui algum encantamento, e qual encantamento &eacute; esse. Isso identifica itens m&aacute;gicos.</p>
-
-<p><b>Procedimento:</b> o arauto precisa conseguir tocar a cabe&ccedil;a do alvo com sua m&atilde;o ou o objeto, mesmo que por um segundo. Um teste de ataque desarmado ser&aacute; demandado em caso de uma criatura.</p>
-
-<h4>Press&aacute;gio</h4>
-
-<p><b>Divindade: </b>Etheria &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1 minuto</p>
-
-<p><b>Objetivo:</b> o futuro n&atilde;o &eacute; certo, as possibilidades s&atilde;o infinitas mas o arauto tentar&aacute; identificar flashes de um poss&iacute;vel futuro a frente. O jogador pode especificar sobre o que deseja saber. Etheria responder&aacute; com flashes de imagens, que podem ester desconexas, ou misturadas de v&aacute;rias poss&iacute;veis linhas temporais. O jogador pode perguntar sobre uma masmorra antes de adentrar, ou sobre um reino ao qual o grupo pretende viajar, ou algo bem mais imediato, como o que vai acontecer ao entrar na pr&oacute;xima sala da masmorra. O narrador deve narrar os flashes de imagens, que pode conter inclusive a morte de algu&eacute;m e a sobreviv&ecirc;ncia dele, pois seriam duas linhas temporais poss&iacute;veis. A informa&ccedil;&atilde;o n&atilde;o deve ser nem t&atilde;o clara e nem t&atilde;o vaga.</p>
-
-<p><b>Procedimento:</b> o arauto sentar e meditar durante alguns minutos para conseguir entrar em conex&atilde;o com o Miska, e assim acessar a deusa. Ap&oacute;s algum tempo, as imagens come&ccedil;ar&atilde;o a vir em sua mente.</p>
-
-<h4>Press&atilde;o et&eacute;rica</h4>
-
-<p><b>Divindade: </b>Etheria &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1d4 turnos</p>
-
-<p><b>Objetivo:</b> criar uma press&atilde;o et&eacute;rica poderosa, causando confus&atilde;o nos sentidos de todos os afetados. A gra&ccedil;a &eacute; feita em uma esfera de 15 metros de di&acirc;metro, e todos que estiverem dentro do local precisam ter sucesso em um teste de karma ou estar&atilde;o com 2 de penalidade para qualquer teste durante 1d4 turnos. O poder n&atilde;o afeta aliados.</p>
-
-<p><b>Procedimento:</b> o arauto soca violentamente o ch&atilde;o, e a esfeta transl&uacute;cida se forma a partir do ponto de imp&aacute;cto.</p>
-
-<img src="<?=base_url('assets/img/draven.png')?>" alt="">
-
-<h3>Draven &nbsp;</h3>
-
-<hr>
-
-<h4>V&iacute;nculo animal</h4>
-
-<p><b>Divindade: </b>Draven &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> durante 1h o arauto sente todos os 5 sentidos de uma criatura que ele tenha tocado, como se fosse ela. Para que o v&iacute;nculo seja realizado, essa criatura n&atilde;o pode ser host&iacute;l. Atrav&eacute;s da sugest&atilde;o, pode-se guiar essa criatura, entretanto, qualquer estresse muito alto, o v&iacute;nculo se perde.</p>
-
-<p><b>Procedimento:</b> o arauto exalta a divindade rogando a gra&ccedil;a enquanto toca o alvo. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo e o arauto deve ficar em estado meditativo para perceber os sentidos.</p>
-
-<h4>Localizar na natureza</h4>
-
-<p><b>Divindade: </b>Draven &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> saber onde encontrar um exemplar de uma criatura ou vegetal. N&atilde;o funciona com criaturas n&atilde;o vivas. Draven oferece uma localiza&ccedil;&atilde;o aproximada de onde encontrar.</p>
-
-<p><b>Procedimento:</b> o arauto precisa tocar uma &aacute;rvore e pedir a Draven que o ilumine nesse pedido.</p>
-
-<h4>Escutar a natureza</h4>
-
-<p><b>Divindade: </b>Draven &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> saber o que aconteceu e um local pela percep&ccedil;&atilde;o de uma &aacute;rvore. Pode-se saber quem passou por ali, se algo aconteceu ali dentro de um passado recente, at&eacute; uma semana.</p>
-
-<p><b>Procedimento:</b> o arauto precisa tocar uma &aacute;rvore e pedir a Draven que o ilumine nesse pedido.</p>
-
-<h4>Pacificar</h4>
-
-<p><b>Divindade: </b>Draven &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> transformar uma criatura hostil em uma criatura neutra. O alvo n&atilde;o pode ter ast&uacute;cia superior a 4.</p>
-
-<p><b>Procedimento:</b> o arauto se ajoelha e profere palavras em l&iacute;ngua divina. A hostilidade que a criatura tinha evapora como um g&aacute;s p&uacute;rpura saindo de seu corpo.</p>
-
-<h4>Aliado animal</h4>
-
-<p><b>Divindade: </b>Draven &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1h</p>
-
-<p><b>Objetivo:</b> transformar uma criatura neutra em uma aliada. O alvo n&atilde;o pode ter ast&uacute;cia superior a 4. A criatura defender&aacute; o arauto como um cachorro protege seu dono, e o seguir&aacute; onde ele for.</p>
-
-<p><b>Procedimento:</b> o arauto se ajoelha e profere palavras em l&iacute;ngua divina. Marcas tribais aparecer&atilde;o sobre o corpo da criatura assim que ela sucumbir a ben&ccedil;&atilde;o.</p>
-
-<img src="<?=base_url('assets/img/erebos.png')?>" alt="">
-
-<h3>Erebos &nbsp;</h3>
-
-<hr>
-
-<h4>Localizar objeto</h4>
-
-<p><b>Divindade: </b>Erebos &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> localizar um objeto que o arauto ja tenha visto. Uma vis&atilde;o do objeto em close &eacute; oferecida, e posteriormente vis&otilde;es em planos mais afastados s&atilde;o oferecidas, at&eacute; uma vista a&eacute;rea. Caso o arauto reconha&ccedil;a o local, saber&aacute; onde est&aacute;.</p>
-
-<p><b>Procedimento:</b> o arauto medita fazendo uma ora&ccedil;&atilde;o a Erebos. Ao fim do processo (1 turno ou 1 minuto) os flashes aparecer&atilde;o.</p>
-
-<h4>Guiar destino</h4>
-
-<p><b>Divindade: </b>Erebos &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> garantir que Erebos interfira positivamente nos p&oacute;roximos 3 testes do alvo, que receber&aacute; 1d6 de b&ocirc;nus. Serve para qualquer teste, em combate ou n&atilde;o.</p>
-
-<p><b>Procedimento:</b> o arauto medita fazendo uma ora&ccedil;&atilde;o a Erebos. Ao fim do processo (1 turno ou 1 minuto) o efeito estar&aacute; ativo.</p>
-
-<h4>Atalho dimensaional</h4>
-
-<p><b>Divindade: </b>Erebos &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1 minuto</p>
-
-<p><b>Objetivo:</b> abrir um portal dimensaional, uma elipse de 1m por 2m. O portal pode ser aberto para qualquer lugar que o arauto ja esteve, a no m&aacute;ximo 1km de dist&acirc;ncia.</p>
-
-<p><b>Procedimento:</b> o arauto estende os dois bra&ccedil;os para frente, com as palmas das m&atilde;os juntas. conforme os bra&ccedil;os v&atilde;o se abrindo, o portal vai sendo aberto.</p>
-
-<h4>Banir</h4>
-
-<p><b>Divindade: </b>Erebos &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1 minuto</p>
-
-<p><b>Objetivo:</b> banir uma criatura que n&atilde;o &eacute; natural deste mundo para seu mundo original. Para resistir a criatura deve ter sucesso em um teste de karma.</p>
-
-<p><b>Procedimento:</b> &eacute; necess&aacute;rio o uso de uma arma de contus&atilde;o ou um golpe f&iacute;sico. Palavras divinas s&atilde;o proferidas e o golpe &eacute; desferido.</p>
-
-<h4>Press&atilde;o dimensional</h4>
-
-<p><b>Divindade: </b>Erebos &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> 1d4 turnos</p>
-
-<p><b>Objetivo:</b> Cria uma &aacute;rea perme&aacute;vel entre sua dimens&atilde;o e a de um lugar com muito mais gravidade. Apenas a gravidade pode atravessar. O arauto consegue moldar circulos de 2m de di&acirc;metro sobre os alvos, no m&aacute;ximo 4. Caso o alvo esteja engajado em combate, seu oponente tamb&eacute;m sofrer&aacute; os efeitos. Quem sofre os efeitos precisa ter sucesso em um teste de for&ccedil;a com 1d4 de penalidade, ou n&atilde;o conseguir&aacute; se mover at&eacute; a press&atilde;o passar. A press&atilde;o dura 1d4 turnos. Os alvos precisam estar no campo de vis&atilde;o do arauto. Caso algu&eacute;m se mova para atacar algu&eacute;m sob o efeito, em um ataque corpo-a-corpo, tamb&eacute;m sofrer&aacute; os efeitos.</p>
-
-<p><b>Procedimento:</b> palavras na lingua divina s&atilde;o proferidas, e para onde o arauto vai apontando, os portais v&atilde;o abrindo.</p>
-
-<h4>O barqueiro</h4>
-
-<p><b>Divindade: </b>Erebos &nbsp;| &nbsp;<b>Custo:</b> 1 &nbsp;| &nbsp;<b>Dura&ccedil;&atilde;o:</b> instant&acirc;neo</p>
-
-<p><b>Objetivo:</b> caso um aliado chegue a zero de vitalidade e falhe no teste de constitui&ccedil;&atilde;o, seu esp&iacute;rito come&ccedil;a a caminhar pelos planos de Erebos na dire&ccedil;&atilde;o do plano dos mortos. O arauto tem 3 rodadas para rogar ao barqueiro que n&atilde;o leve o esp&iacute;rito. Casso essa ben&ccedil;&atilde;o seja dada, o aliado que morreu pode fazer mais um teste de constitui&ccedil;&atilde;o. Caso falhe estar&aacute; definitivamente morto, um sucesso ele apenas ficar&aacute; desmaiado.</p>
-
-<p><b>Procedimento:</b> ap&oacute;s a morte, o arauto tem 3 rodadas para se ajoelhar e colocar as m&atilde;os sobre o aliado, proferindo palavras divinas, implorando que o barqueiro n&atilde;o siga com o esp&iacute;rito.</p>
-
-<p><br />
-<br />
-<br />
-&nbsp;</p>
+<h1>Graças divinas</h1>
+
+<p>Os deuses de Avengard nutrem um afeto peculiar pela humanidade, especialmente por seus arautos. Através deles, os
+    deuses podem exercer sua vontade sem precisar manifestar-se diretamente no plano físico. O arauto reconhece o
+    privilégio que lhe é concedido e entende que o desejo de oferecer uma graça deve vir dos deuses, não como resposta a
+    um pedido pessoal. Ainda assim, em certas circunstâncias, o fiel poderá se ver forçado a suplicar por auxílio divino
+    em uma situação específica.</p>
+<p>A fé de um arauto é representada pelo seu valor de moral. Cada vez que ele solicitar uma graça, sua fé será testada
+    para determinar se a graça será concedida. Para isso, rola-se um d20, buscando um resultado igual ou inferior ao
+    valor de moral do arauto. Se o teste for bem-sucedido, a graça é concedida; caso contrário, a prece não é atendida.
+    Independentemente do resultado, solicitar uma graça reduz o valor de moral do arauto. Este capítulo apresenta uma
+    lista básica de graças, junto com seus respectivos custos em moral. Em Avengard, encorajamos jogadores e mestres a
+    criar novas graças que os deuses possam oferecer, sempre alinhadas com o custo de moral, sendo a palavra final do
+    narrador.</p>
+<p>Quando um arauto busca a atenção divina, ele canaliza toda a sua fé e faz o pedido com convicção. Um exemplo de
+    súplica seria: “Ó grandiosa Ak'na, mãe de todas as criaturas vivas, põe fim à aflição deste teu filho enfermo,
+    curando suas enfermidades.” O pedido pode variar conforme a graça desejada.</p>
+<p>Muitas das graças concedidas pelos deuses têm seu efeito proporcional à fé do arauto. A intensidade de um pedido é
+    determinada pelo teste de moral, onde a diferença entre o valor de moral e o resultado no dado é chamada de fé.
+    Sempre que o termo fé aparecer em uma graça, refere-se a essa medida.</p>
+<p>Tudo o que se sabe sobre as divindades de Avengard foi revelado por meio dos estudos arqueológicos do legado élfico.
+    Inicialmente, acreditava-se que Etheria era a única deusa de todas as coisas, devido à grande quantidade de
+    informações, templos e estátuas em sua honra. Porém, com o avanço dos estudos, descobriu-se a existência de pelo
+    menos seis deuses no panteão. Com o tempo, outros deuses podem ser revelados, permitindo a inclusão de novas
+    divindades nas aventuras de Avengard, sem gerar conflitos com o cenário existente.</p>
+<p>As graças divinas são tratadas como habilidades, embora seus testes sejam baseados na moral. O personagem começa sua
+    jornada com nível zero em cada graça, podendo evoluí-las durante os hiatos, seguindo as mesmas regras de progressão
+    das habilidades.</p>
+
+<h2><strong>Preceitos</strong></h2>
+<p>Ser um arauto não significa apenas possuir uma conexão com os deuses de Avengard; é também seguir fielmente os
+    preceitos que eles estabeleceram. O principal desses preceitos é a preservação da vida avengardiana. Isso abrange a
+    proteção da vida humana, dos animais e das florestas. Um arauto só violaria esse princípio em circunstâncias
+    extremas, como para salvar a própria vida. Em combate contra outro ser humano, ele escolheria incapacitar o
+    oponente, optando por usar armas contundentes em vez de cortantes ou perfurantes. Quebrar este preceito lhe
+    consumiria um ponto de moral.</p>
+<p>O segundo preceito é o banimento de tudo o que é impuro. Muitas criaturas que habitam Avengard provêm de outros
+    planos, são amaldiçoadas ou mortos-vivos. Cabe ao arauto devolver essas entidades ao seu plano de origem. Toda vez
+    que um arauto, seja sozinho ou em grupo, elimina uma ou mais dessas criaturas, ele realiza um ritual de purificação,
+    que lhe concede +1 ponto de moral.</p>
+<p>A solidariedade é uma extensão do preceito da preservação e é altamente valorizada pelo panteão. Ajudar os outros por
+    pura compaixão é a marca de um verdadeiro arauto. Proteger uma aldeia de um ataque de carniçais, resgatar uma
+    criança perdida na floresta ou passar o dia carregando madeira para construir abrigos após uma tempestade são
+    exemplos de atitudes que aumentam a moral do arauto em +1 ponto. Personagens de boa índole, independentemente da
+    classe, também são beneficiados com esse bônus moral.</p>
+<p>Por fim, fazer uma oração aos deuses do panteão antes de repousar pode ser crucial para reforçar sua fé. Esse
+    preceito permite que o jogador faça um teste de karma para determinar se os deuses ouviram sua prece. Se for
+    bem-sucedido, metade da diferença dos pontos obtidos no teste (arredondados para baixo) é adicionada à sua moral ao
+    acordar no outro dia.
+</p>
+
+<h2>Ak'na</h2>
+
+<p>Ak'na é a deusa do amanhecer, simbolizando serenidade, esperança e renovação. Descrita com uma beleza etérea, ela
+    personifica o ciclo da vida e o renascer de cada novo dia, sendo venerada por seus devotos que buscam bênçãos de
+    prosperidade, cura e proteção. Ak'na está profundamente conectada à natureza, trazendo equilíbrio e abundância às
+    estações do ano. Seus templos são refúgios de paz, onde os fiéis encontram conforto e orientação. Como bênção, ela
+    concede vigor e resistência, inspirando seus seguidores a enfrentarem os desafios da vida com coragem e fé renovada
+    a cada amanhecer.</p>
+
+<h3>Cura</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> imediato</p>
+<p>Reduz o tempo de uma doença ou uma condição não mágica que aflija alguém. A condição pode ser cegueira, surdez,
+    paralisia, braço quebrado, envenenamento etc. Reduz em semanas o valor de fé obtido no teste, sendo o mínimo de uma
+    semana.</p>
+<h3>Esfera de proteção</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> 10h</p>
+<p>Cria uma esfera translucida, quase invisível, de até 6m de raio, que praticamente impede que qualquer criatura viva
+    ataque quem esteja dentro ou parcialmente dentro. Para conseguir deve-se fazer um teste de karma com penalidade
+    proporcional a fé aplicada no teste (mínimo 5). A esfera é de livre passagem, qualquer um entra ou sai.</p>
+<h3>Proteção contra morte</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> 8h</p>
+<p>Garante que um alvo agraciado não morra ao ter sua vitalidade atingida zero. Se chegar a zero, a vitalidade é
+    restaurada no valor da fé (mínimo 1) aplicada no teste e a proteção acaba.</p>
+<h3>Proteção física</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> 1h por ponto de fé obtido no teste (mínimo 1h)</p>
+<p>Rogar para que Ak'na agracie o alvo com o seu manto de proteção, que aumenta a proteção do arauto em 3 pontos.</p>
+<h3>Proteger</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> 1h por ponto de fé obtido no teste (mínimo 1h)</p>
+<p>Rogar para que Ak'na agracie o alvo com uma porção de sua atenção, aumentando temporariamente sua guarda em um ponto.
+</p>
+<h3>Restauração</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> imediato</p>
+<p>Restaura a vitalidade do alvo com o dobro do valor de fé obtido no teste (mínimo 8 pontos).</p>
+<h3>Restauração coletiva</h3>
+<p><strong>Custo:</strong> 4 | <strong>Duração:</strong> imediato</p>
+<p><strong>Objetivo:</strong> criar uma esfera translucida, quase invisível, de 2m de raio, centrada no arauto. Todos os
+    que se encontram dentro restauram a vitalidade com o dobro do valor de fé obtido no teste (mínimo 8 pontos).</p>
+
+<h2>Draven</h2>
+
+<p>Draven, uma entidade enigmática das florestas de Avengard, é retratado como um garoto franzino com uma coroa de
+    galhos de cervo, simbolizando sua conexão com a natureza. Brincalhão e travesso, ele prega peças nos viajantes,
+    enquanto se comunica com animais em perfeita harmonia. Para seus devotos, Draven representa pureza, paz e a busca
+    por equilíbrio entre seres humanos e a vida selvagem. Conhecido por proteger os animais, ele oferece cura e proteção
+    aos seres da floresta. Seu dogma valoriza as "Travessuras Sagradas", e sua bênção concede a capacidade de se
+    comunicar telepaticamente com animais e árvores, promovendo a astúcia e a preservação da natureza.</p>
+
+<h3>Aliado animal</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> a fé em horas</p>
+<p>Transforma uma criatura neutra em uma aliada. O alvo não pode ter astúcia superior a 4. A criatura defenderá o arauto
+    como um cachorro protege seu dono, e o seguirá onde ele for. O arauto se ajoelha e profere palavras em língua
+    divina. Marcas tribais aparecerão sobre o corpo da criatura assim que ela sucumbir a benção. Dura em horas o valor
+    de fé do teste.</p>
+<h3>Escutar a natureza</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> instantâneo</p>
+<p>Saber o que aconteceu e um local pela percepção de uma árvore. Pode-se saber quem passou por ali, se algo aconteceu
+    ali dentro de um passado recente, até uma semana.</p>
+<h3>Localizar na natureza</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> instantâneo</p>
+<p>Saber onde encontrar um tipo de criatura ou vegetal. Não funciona com criaturas não vivas. Draven oferece uma
+    localização aproximada de onde encontrar.</p>
+<h3>Pacificar</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> instantâneo</p>
+<p>Transforma uma criatura hostil em uma criatura neutra. O alvo não pode ter astúcia superior a 4. o arauto se ajoelha
+    e profere palavras em língua divina. A hostilidade que a criatura tinha evapora como um gás púrpura saindo de seu
+    corpo.</p>
+<h3>Vínculo animal</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> instantâneo</p>
+<p>Durante um determinado tempo o arauto sente todos os 5 sentidos de uma criatura que ele tenha tocado, como se fosse
+    ela. Para que o vínculo seja realizado, essa criatura não pode ser hostíl. Através da sugestão, pode-se guiar essa
+    criatura, entretanto, qualquer estresse muito alto, o vínculo se perde. O tempo da graça é de 15 minutos por cada
+    ponto de fé no teste, donde no mínimo 15 min.</p>
+
+<h2>Erebos</h2>
+
+<p>Erebos, o "Senhor dos Mundos", é uma divindade enigmática que transita entre os planos como um corvo ou em sua forma
+    humanóide imponente, com pele escura e olhos laranja brilhantes. Guardião da justiça e do destino das almas, seus
+    devotos o buscam em momentos de perda, confiando em sua sabedoria para guiar as almas além da mortalidade. Erebos
+    também carrega uma lenda sombria: em um ato de ira, abriu um portal entre mundos, trazendo caos a Avengard. Seu
+    dogma incentiva a destruição de criaturas não mundanas, e sua bênção interfere no domínio dos planos e nas almas que
+    os atravessam..</p>
+
+<h3>Localizar objeto</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> instantâneo</p>
+<p><strong>Objetivo:</strong> localizar um objeto que o arauto ja tenha visto. Uma visão do objeto em foco é oferecida,
+    e posteriormente visões em planos mais afastados são oferecidas, até uma vista aérea. Caso o arauto reconheça o
+    local, saberá onde está.</p>
+<h3>Infra visão</h3>
+<p><strong>Custo:</strong> 1 | <strong>Duração:</strong> fé em horas (mínimo 1h)</p>
+<p>O arauto adquire a capacidade de visão térmica e noturna.</p>
+<h3>Atalho dimensional</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> 1 minuto</p>
+<p>Abre um portal dimensional, uma elipse de 1m por 2m. O portal pode ser aberto para qualquer lugar que o arauto ja
+    esteve, a no máximo 100 metros de distância por ponto de fé. O arauto estende os dois braços para frente, com as
+    palmas das mãos juntas. conforme os braços vão se abrindo, o portal vai sendo aberto.</p>
+<h3>Banir</h3>
+<p><strong>Custo:</strong> 3 | <strong>Duração:</strong> 1 minuto</p>
+<p>Bane as criaturas que não são natural deste mundo para seu mundo original. Para resistir as criaturas deve ter
+    sucesso em um teste de karma. Um portal de abre sugando elas para seu local de origem.</p>
+<h3>Pressão dimensional</h3>
+<p><strong>Custo:</strong> 3 | <strong>Duração:</strong> fé rodadas</p>
+<p>Cria uma área permeável entre sua dimensão e a de um lugar com muito mais gravidade. Apenas a gravidade pode
+    atravessar. O arauto consegue moldar círculos de 2m de diâmetro sobre os alvos, no máximo 4. Todos que estejam
+    adjacentes ao alvo também sofrem os efeitos. Quem sofre os efeitos precisa ter sucesso em um teste de força, ou não
+    conseguirá se mover nem atacar até a pressão passar. Os alvos precisam estar no campo de visão do arauto. Caso
+    alguém vá atacar alvo sob o efeito, e fique adjacente a ele, sofrerá os efeitos da pressão.</p>
+<h3>O barqueiro</h3>
+<p><strong>Custo:</strong> 2 | <strong>Duração:</strong> instantâneo</p>
+<p><strong>Objetivo:</strong> caso um aliado chegue a zero de vitalidade e falhe no teste de constituição, seu espírito
+    começa a caminhar pelos planos de Erebos na direção do plano dos mortos. O arauto tem 3 rodadas para rogar ao
+    barqueiro que não leve o espírito. Caso essa benção seja dada, o aliado que morreu pode fazer mais um teste de
+    constituição. Caso falhe estará definitivamente morto, um sucesso ele apenas ficará desmaiado.</p>
+
+<h2>Etheria</h2>
+
+<p>Etheria, a enigmática senhora do Éter, é uma divindade misteriosa que frequentemente se manifesta como uma coruja
+    branca, símbolo de sabedoria e segredos ancestrais. Capturada e aprisionada pelos avengardianos, seu poder foi
+    restringido à região de Avengard, onde é reverenciada como a guardiã dos enigmas e do equilíbrio entre o mundo
+    material e o Éter. Seus seguidores a invocam em busca de respostas para os mistérios da vida, guiados por sua
+    sabedoria e visão profunda. Seu dogma exige a oferta de Éter, concedendo aos devotos intuição e ampliação da
+    Sabedoria. Etheria permanece como uma força transcendente e enigmática, inspirando a busca por conhecimento divino.
+</p>
+
+<h3><strong>Desfazer Morto-vivo</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: Instantâneo</p>
+<p>Dissipa o poder que anima um morto-vivo alvo, fazendo o corpo cair inerte. O arauto precisa tocar a cabeça da
+    criatura, mesmo que brevemente. Um teste de ataque desarmado, usando moral como atributo, é necessário. O arauto
+    deve conhecer o encantamento que anima o tipo de criatura, e isso é possível identificando-o uma única vez para cada
+    tipo de morto-vivo.</p>
+<h3><strong>Identificar Encantamento</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: Instantâneo</p>
+<p>Revela se um alvo, item, objeto ou local está sob efeito de um encantamento e qual é esse encantamento. Isso inclui a
+    identificação de itens mágicos. Encantamentos têm dificuldades de identificação, e, se não indicadas, considere
+    dificuldade 5. O teste de fé precisa atingir ou superar essa dificuldade.</p>
+<h3><strong>Presságio</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: 2 minutos</p>
+<p>O arauto vislumbra possíveis flashes de futuros alternativos. O jogador pode especificar o que deseja saber, e
+    Etheria responderá com visões que podem ser fragmentadas ou misturadas entre diferentes linhas temporais. Exemplos
+    incluem uma masmorra que o grupo irá explorar ou o que pode acontecer ao entrar na próxima sala. O narrador descreve
+    os flashes, que podem incluir múltiplos desfechos, como a morte e sobrevivência de alguém. A clareza das visões será
+    proporcional ao valor de fé no teste.</p>
+<h3><strong>Pressão Etérica</strong></h3>
+<p><strong>Custo</strong>: 5 | <strong>Duração</strong>: Proporcional à fé</p>
+<p>Cria uma intensa pressão etérica, desorientando os sentidos dos escolhidos pelo arauto. A habilidade afeta uma área
+    de até 30 metros de diâmetro, onde todos os alvos devem fazer um teste de karma a cada turno; falhas resultam em
+    incapacidade de agir. O efeito pode durar até 1d12 rodadas, com a fé do teste determinando o número de faces do dado
+    (por exemplo, uma fé 8 ou 9 resulta em 1d8 rodadas).</p>
+<h3><strong>Remover Encantamento</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: Instantâneo</p>
+<p>Remove qualquer encantamento identificado em itens, objetos ou locais. Encantamentos possuem níveis de dificuldade
+    para serem quebrados; se não especificado, considere dificuldade 5. O teste de fé deve ser igual ou superior à
+    dificuldade do encantamento.</p>
+<h3><strong>Remover Maldição</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: Instantâneo</p>
+<p>Remove qualquer maldição ou efeito negativo não natural a que o alvo esteja sujeito. Maldições possuem níveis de
+    dificuldade para serem removidas; se nenhum nível for especificado, considere dificuldade 5. O resultado do teste de
+    fé deve ser igual ou superior à dificuldade da maldição. Se usado em criaturas, elas morrem instantaneamente.</p>
+
+<h2>Rivenya</h2>
+
+<p>Rivenya, deusa do céu e da liberdade, personifica a transformação e o renascimento. Ela se manifesta de diferentes
+    formas, seja como um elegante flamingo ou assumindo a aparência de uma fêmea da espécie com a qual irá interagir,
+    sempre refletindo a beleza e vastidão do céu. Seus adornos de prata e plumas simbolizam sua conexão com o horizonte
+    e a liberdade. Rivenya inspira seus devotos a abraçarem a mudança e a libertarem-se das mentiras e da hipocrisia,
+    guiando-os com serenidade e coragem nos momentos de transição. Seu dogma celebra a evolução por meio da "Dança das
+    Chamas", um ritual em que o fiel busca clareza e iluminação, revelando a verdade oculta das coisas.</p>
+
+<h3><strong>Compreender Idiomas</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: 1 hora</p>
+<p>Permite que o alvo entenda qualquer linguagem, falada ou escrita, por até 1 hora.</p>
+<h3><strong>Esfera da Verdade</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: 1 hora</p>
+<p>Cria uma esfera translúcida, quase invisível, com 6 metros de raio, centrada no arauto. Dentro desse espaço, torna-se
+    difícil mentir, exceto se o mentiroso acreditar na própria mentira. Mentir exige um teste de karma com penalidade
+    igual à fé do teste.</p>
+<h3><strong>Liberar</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: Instantâneo</p>
+<p>Libera ou destrava qualquer tipo de tranca, corrente, cadeado ou restrição semelhante. Se a dificuldade da tranca não
+    for informada, considere dificuldade 5.</p>
+<h3><strong>Lummen</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: Proporcional à fé</p>
+<p>Faz com que um objeto de até 10 cm³ emita uma luz equivalente a dez tochas. Cada ponto de fé faz o brilho durar 5
+    minutos, com duração mínima de 15 minutos.</p>
+<h3><strong>Pressentir Ameaças</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: Instantâneo</p>
+<p>Permite pressentir uma fonte de ameaça em um ambiente ou objeto específico. O arauto deve apontar claramente o alvo a
+    ser analisado, como uma sala, baú ou caixão, com limite de 40 m². O arauto fecha os olhos, estende as mãos na
+    direção do alvo, e, após 1 turno (ou 1 minuto), recebe a resposta sussurrada por Rivenya.</p>
+<h3><strong>Retroceder</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: Instantâneo</p>
+<p>Permite rolar novamente um teste recém-falhado. Ao presenciar a falha, o arauto invoca a graça de Rivenya, mesmo fora
+    de seu turno, fazendo o tempo retroceder para que todos possam realizar o teste novamente. Apenas o arauto sabe que
+    o tempo foi alterado. Essa graça só pode ser usada imediatamente após uma falha, e o teste de fé deve superar a
+    diferença entre o resultado e o sucesso que faltou.</p>
+<h3><strong>Vendaval</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: Concentração</p>
+<p>Cria uma rajada de vento forte o suficiente para empurrar inimigos em um alcance de até 20 metros. O vento se projeta
+    em forma de cone a partir do arauto. Aqueles atingidos devem fazer um teste de força com penalidade baseada na fé.
+    Um sucesso permite que o alvo se mova contra o vento; uma falha o impede de avançar, e uma falha de 5 pontos ou mais
+    empurra o alvo 5 metros para trás.</p>
+
+<h2>Thalios</h2>
+
+<p>Thalios, o Deus bisão, personifica a estabilidade e a força das vastas planícies. Com a imponente figura de um
+    gladiador e acompanhado por um majestoso bisão, ele é venerado como protetor dos campos férteis e dos justos. Seus
+    devotos buscam sua bênção para obter coragem e vitória em batalhas, bem como proteção para as colheitas e o
+    equilíbrio climático das planícies. Thalios também é honrado pelos ferreiros, que acreditam ser guiados por sua
+    força divina. Seu dogma promove ética e honra, e sua bênção concede proteção extra. Ele simboliza força e
+    equilíbrio, inspirando seus seguidores a lutar por estabilidade e firmeza em todas as áreas da vida.</p>
+
+<h3><strong>Aliança</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: 1 hora</p>
+<p>O arauto cria uma reserva coletiva de pontos de fé que pode ser acessada por todos os seus aliados. A quantidade de
+    pontos na reserva será determinada pela fé obtida no teste. Durante a próxima hora, os aliados podem utilizar esses
+    pontos para complementar testes que resultariam em falha. Se uma nova aliança for formada antes de esgotar os pontos
+    da reserva, os pontos restantes serão somados à nova reserva.</p>
+<h3><strong>Áqua</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: Permanente</p>
+<p>Enche um recipiente vazio de até 5 litros com água limpa.</p>
+<h3><strong>Banhar Arma</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: 1 hora</p>
+<p>O arauto toca uma arma e a dedica a Thalios. Se a arma for utilizada de acordo com os preceitos da divindade, ela
+    causará 1 dado adicional de dano. O número de faces desse dado será igual ou menor ao valor de fé obtido no teste.
+</p>
+<h3><strong>Intimidar</strong></h3>
+<p><strong>Custo</strong>: 4 | <strong>Duração</strong>: Imediato</p>
+<p>O arauto invoca o poder de Thalios para influenciar uma batalha. Todos os inimigos devem fazer um teste de moral;
+    caso falhem, atacarão com desvantagem. Um novo teste é realizado a cada rodada até que superem a intimidação.</p>
+<h3><strong>Lança de Thalios</strong></h3>
+<p><strong>Custo</strong>: 2 | <strong>Duração</strong>: 1 hora</p>
+<p>Uma arma espiritual se materializa na mão do arauto. Seu dano é equivalente ao de uma arma comum, mas ela ignora a
+    guarda e proteção do alvo, sendo, no entanto, inofensiva contra humanos. A lança é feita de luz, e a cada vez que é
+    lançada, uma nova aparece na mão do arauto, de acordo com o número de sucessos no teste de fé. O alvo atingido sofre
+    desvantagem em qualquer teste por uma rodada.</p>
+<h3><strong>Vigor do Combatente</strong></h3>
+<p><strong>Custo</strong>: 1 | <strong>Duração</strong>: Até o fim do combate</p>
+<p>Evoca a graça de Thalios sobre si mesmo ou um aliado, conferindo pontos de vitalidade extras iguais à fé obtida no
+    teste, até o término do combate. Os pontos podem superar a vitalidade base.</p>

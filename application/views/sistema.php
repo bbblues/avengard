@@ -6,18 +6,20 @@
       <h3>CAPÍTULOS</h3>
       <ul class="capitulos">
         <li><a href="<?=site_url('sistema/introducao')?>">Introdução</a></li>
+        <li><a href="<?=site_url('sistema/elementos')?>">Criando um personagem</a></li>
         <li><a href="<?=site_url('sistema/classes')?>">Classes</a></li>
+        <li><a href="<?=site_url('sistema/compendium')?>">Compendium alquímico</a></li>
         <li><a href="<?=site_url('sistema/gracas')?>">Graças divinas</a></li>
         <li><a href="<?=site_url('sistema/poderes_ocultos')?>">Poderes ocultos</a></li>
-        <li><a href="<?=site_url('sistema/compendium')?>">Compendium alquímico</a></li>
-        <li><a href="<?=site_url('sistema/elementos')?>">Elementos do personagem</a></li>
+        
+        
         <li><a href="<?=site_url('sistema/equipamentos')?>">Equipamentos</a></li>
         <li><a href="<?=site_url('sistema/evolucao')?>">Evolução de personagem</a></li>
         <li><a href="<?=site_url('sistema/mecanicas')?>">Mecânicas de jogo</a></li>
         <li><a href="<?=site_url('sistema/combate')?>">Combate</a></li>
       </ul>
       <hr>
-      <h3 class="este_capitulo">ESTE CAPÍTULO</h3>
+      <h3 id="este_capitulo" class="este_capitulo">ESTE CAPÍTULO</h3>
       <div id="indice" class="indice"></div>
     </div>
 
@@ -36,7 +38,9 @@
         }
 
         var conteudoDiv = document.getElementById("conteudo");
-        var headers = conteudoDiv.querySelectorAll("h2, h3, h4");
+        // var headers = conteudoDiv.querySelectorAll("h2, h3, h4");
+        var headers = conteudoDiv.querySelectorAll("h2");
+        var h1Element = conteudoDiv.querySelector('h1');
         var itens = "<ul>";
         var nivel = 2;
         var nivelul = 0;
@@ -69,6 +73,7 @@
         }
 
         document.getElementById("indice").innerHTML = itens;
+        document.getElementById("este_capitulo").innerHTML = h1Element.textContent;
 
       };
 

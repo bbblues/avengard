@@ -7,18 +7,18 @@ a:hover {
 }
 .indice>ul {
     list-style-type: none;
-    padding: 2px;
+    padding: 6px 0 0 0;
 }
 .indice>ul>li>ul {
     list-style-type: none;
-    padding: 0 0 0 13px;
+    padding: 0 0 0 2px;
+    margin-top: -10px;
+}
+.indice>ul>li>ul>li {
+    margin-bottom: 5px;
 }
 .indice>ul>li {
     margin-top: 10px;
-    margin-bottom: 30px;
-}
-.indice>ul>li>ul {
-    margin-top: -10px;
 }
 .indice>ul>li>ul>li>ul>li {
     list-style-type: circle;
@@ -45,9 +45,7 @@ a:hover {
 #indice>ul>li>ul>li>a {
     text-transform: uppercase;
 }
-#indice>ul>li>ul>li>a {
-    color: #8b2f25;
-}
+
 .sistema {
     background-image: url('<?php echo base_url('assets/') ?>img/fundo-claro.png');
     color: #4c4235;
@@ -61,6 +59,10 @@ a:hover {
     color: #8b2f25;
     margin: 30px 0 10px 0;
   }
+  .sistema .h3, 
+  .sistema h3 {
+    font-size: 1.4rem;
+}
   .sistema img {
     width: 100%;
   }
@@ -86,7 +88,7 @@ a:hover {
     list-style-type: none;
     text-transform: uppercase;
     font-weight: bold;
-    padding: 9px;
+    padding: 9px 9px 9px 2px;
 }
 .capitulos li {
     margin-bottom: 8px;

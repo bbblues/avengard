@@ -37,9 +37,8 @@ class Welcome extends CI_Controller {
 
 	public function bestiario()
 	{
-		$data['menu'] = "sistema";
-		$data['page'] = "sistema.php";
-		$data['capitulo'] = $v;
+		$data['menu'] = "bestiario";
+		$data['page'] = "bestiario.php";
 		$data['fundo'] = "sistema";
 		$this->load->view('index',$data);
 	}

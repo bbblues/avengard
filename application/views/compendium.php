@@ -1,272 +1,359 @@
-<h2>Compendium alqu&iacute;mico</h2>
-
-<p>A alquimia &eacute; uma arte situada na encruzilhada entre a qu&iacute;mica e a magia. Em Avengard, muitas criaturas e algumas plantas mostram uma elevada suscetibilidade ao &Eacute;ter, adquirindo propriedades &uacute;nicas. Uma simples rea&ccedil;&atilde;o qu&iacute;mica revela-se ineficaz diante do &Eacute;ter, e &eacute; aqui que o talento do alquimista se destaca.</p>
-
-<p>O alquimista &eacute; o indiv&iacute;duo com a maior sensibilidade m&aacute;gica em Avengard, estando &agrave; beira da maestria em manipular a magia. Essa habilidade singular permite que ele maneje subst&acirc;ncias impregnadas de &Eacute;ter, ativando rea&ccedil;&otilde;es qu&iacute;micas que s&oacute; ele &eacute; capaz de desencadear. A rea&ccedil;&atilde;o qu&iacute;mica et&eacute;rica &eacute;, de fato, poderosa, mas seu resultado &eacute; ef&ecirc;mero, deteriorando-se rapidamente e sendo dissipado no Miska. Por esse motivo, o alquimista deve preparar sua f&oacute;rmula, ativando-a somente no momento exato de uso para preservar suas propriedades.</p>
-
-<img src="<?=base_url('assets/img/materiais_alquimicos.png')?>" alt="">
-
-<h3>Materiais alqu&iacute;micos</h3>
-
-<p>A seguir, apresentamos uma lista dos materiais alqu&iacute;micos utilizados pelo comp&ecirc;ndio. Alguns desses materiais s&atilde;o identificados com a termina&ccedil;&atilde;o &quot;extrato&quot; em seus nomes. A extratifica&ccedil;&atilde;o alqu&iacute;mica &eacute; um processo exclusivo do alquimista, que s&oacute; ele &eacute; capaz de realizar. Sempre que o alquimista encontra o ingrediente na natureza, pode proceder com a extratifica&ccedil;&atilde;o, desde de que tenha um decantador alqu&iacute;mico no local.</p>
-
-<p>Embora todos esses ingredientes estejam dispon&iacute;veis para compra de outros alquimistas, a raridade de um material influencia diretamente na sua dificuldade de ser encontrado. A raridade &eacute; expressa como uma probabilidade de localiza&ccedil;&atilde;o, indicada por um n&uacute;mero de 1 a 20 ao lado da palavra &quot;raridade&quot;. O jogador deve lan&ccedil;ar 1d20 e obter um valor igual ou superior &agrave; raridade do ingrediente para determinar se o alquimista em quest&atilde;o possui o item para venda. Cabe ao narrador avaliar b&ocirc;nus ou penalidades, dependendo do contexto da busca. Em uma grande cidade comercial, &eacute; mais prov&aacute;vel encontrar os ingredientes, enquanto em uma regi&atilde;o erma, a probabilidade pode ser menor. Nesse caso, o narrador deve definir os b&ocirc;nus ou penalidades.</p>
-
-<p>Incentivamos tanto narradores quanto jogadores a criarem novos ingredientes para uso em f&oacute;rmulas in&eacute;ditas. Tamb&eacute;m &eacute; poss&iacute;vel conceber novos ingredientes que produzam efeitos similares aos descritos abaixo. A decis&atilde;o final sobre a viabilidade sempre ficar&aacute; a cargo do narrador da aventura.</p>
-
-<p><b>Peteca de couro para liquidos:</b> raridade 4, 20pc.</p>
-
-<p>Uma peteca de couro de aproximadamente 6cm de di&acirc;metro que consegue manter l&iacute;quidos em seu interior sem vazar.</p>
-
-<p><b>Ampola de casca de nozes: </b>raridade 4, 10pc.</p>
-
-<p>Uma ampola feita de casca de nozes que serve de casco para alguns aparatos alqu&iacute;micos.</p>
-
-<p><b>Extrato de &aacute;cido de basilisco:</b> raridade 10, 4pp 100ml.</p>
-
-<p>O &aacute;cido de basilisco &eacute; perigos&iacute;ssiomo em natura, mas seu extrato &eacute; algo altamente controlado e de volume muito menor. Um litro de &aacute;cido resulta em 200ml de extrato.</p>
-
-<p><b>Gordura de basilisco:</b> raridade 7, 1pp 100g;</p>
-
-<p>A banha do basilisco em natura vendida a quilo. &Eacute; poss&iacute;vel se extrair at&eacute; 3 quilos dessa gordura com os equipamentos necess&aacute;rios em alguma cidade, j&aacute; na natureza, &eacute; poss&iacute;vel extrair no m&aacute;ximo 1 quilo.</p>
-
-<p><b>Extrato de sangue de salamandra:</b> raridade 12, 10pp 100ml;</p>
-
-<p>Extrato tem que ser processado enquanto o sangue da salamandra ainda est&aacute; quente. Uma salamandra oferece at&eacute; 1 litro do extrato, e leva-se 1h para processar.</p>
-
-<p><b>Extrato de muco de vibora nublada:</b> raridade 12, 4pp 100g;</p>
-
-<p>Uma v&iacute;bora oferece at&eacute; 1 litro de muco que gera 200g de extrato.</p>
-
-<p><b>Extrato de muco de v&iacute;bora nublada:</b> raridade: 12, 4pp 100g.</p>
-
-<p>O muco da v&iacute;bora nublada, uma criatura sinuosa e venenosa, &eacute; cuidadosamente processado para extrair um l&iacute;quido alqu&iacute;mico valioso. Uma v&iacute;bora oferece at&eacute; 1 litro de muco, resultando em 200g de extrato de muco de v&iacute;bora nublada.</p>
-
-<p><b>Extrato do ferr&atilde;o de escorpi&atilde;o el&eacute;trico:</b> raridade: 8, 6pp 50g.</p>
-
-<p>O ferr&atilde;o do escorpi&atilde;o el&eacute;trico, conhecido por sua natureza chocante, &eacute; utilizado na alquimia para extrair um l&iacute;quido condutor especial. Um escorpi&atilde;o el&eacute;trico fornece material suficiente para 50g de extrato de ferr&atilde;o de escorpi&atilde;o el&eacute;trico.</p>
-
-<p><b>Extrato do ferr&atilde;o de son&iacute;vorax:</b> raridade: 9, 8pp 50g.</p>
-
-<p>O ferr&atilde;o do son&iacute;vorax, uma criatura conhecida por suas habilidades s&ocirc;nicas, &eacute; usado na alquimia para criar um extrato valioso. Cada son&iacute;vorax fornece material suficiente para 50g de extrato de ferr&atilde;o de son&iacute;vorax.</p>
-
-<p><b>Extrato das gl&acirc;ndulas lacrimais de son&iacute;vorax:</b> raridade: 10, 12pp 50ml.</p>
-
-<p>As gl&acirc;ndulas lacrimais do son&iacute;vorax, ricas em subst&acirc;ncias m&aacute;gicas, s&atilde;o processadas para extrair um l&iacute;quido alqu&iacute;mico poderoso. Cada son&iacute;vorax oferece at&eacute; 50ml de extrato das gl&acirc;ndulas lacrimais.</p>
-
-<p><b>Extrato de saliva de Erodedor Ferruginoso:</b> raridade: 6, 2pp 100ml.</p>
-
-<p>A saliva do Erodedor Ferruginoso, uma criatura corrosiva, &eacute; coletada e processada para obter um extrato valioso. Cada Erodedor Ferruginoso fornece at&eacute; 100ml de extrato de saliva.</p>
-
-<p><b>Extrato da gl&acirc;ndula de fera g&eacute;lida:</b> raridade: 11, 15pp 50ml.</p>
-
-<p>A gl&acirc;ndula da fera g&eacute;lida, uma criatura das regi&otilde;es frias, &eacute; utilizada na alquimia para extrair um l&iacute;quido especial. Cada fera g&eacute;lida oferece at&eacute; 50ml de extrato da gl&acirc;ndula.</p>
-
-<p><b>Extrato da gl&acirc;ndula do ogro de Hyluia: raridade:</b> 7, 5pp 50ml.</p>
-
-<p>A gl&acirc;ndula do ogro de Hyluia, uma criatura robusta, &eacute; processada para extrair um l&iacute;quido alqu&iacute;mico peculiar. Cada ogro de Hyluia fornece at&eacute; 50ml de extrato da gl&acirc;ndula.</p>
-
-<p><b>Chamuscador:</b> raridade: 5, 30pc.</p>
-
-<p>Um dispositivo alqu&iacute;mico projetado para criar chamas intensas instantaneamente, &uacute;til em diversas aplica&ccedil;&otilde;es.</p>
-
-<p><b>Tinta alqu&iacute;mica (ingredientes):</b> raridade: Varia, 2pp 100ml.</p>
-
-<p>Uma mistura &uacute;nica de ingredientes alqu&iacute;micos, como extratos de plantas, minerais e subst&acirc;ncias raras, cuidadosamente processados para criar uma tinta m&aacute;gica usada em rituais e encantamentos.</p>
-
-<p><b>Extrato de vagalume avengardiano:</b> raridade: 9, 3pp 50ml.</p>
-
-<p>O brilho m&aacute;gico do vagalume avengardiano &eacute; capturado e processado para criar um extrato luminoso. Cada vagalume avengardiano oferece at&eacute; 50ml de extrato.</p>
-
-<p><b>Extrato de sangue de devorador:</b> raridade: 13, 15pp 100ml.</p>
-
-<p>O sangue do devorador, uma criatura tem&iacute;vel, &eacute; cuidadosamente coletado e processado para extrair um l&iacute;quido alqu&iacute;mico de grande pot&ecirc;ncia. Cada devorador oferece at&eacute; 100ml de extrato de sangue.</p>
-
-<p><b>Extrato de brom&eacute;lia avengardiana:</b> raridade: 6, 2pp 100g.</p>
-
-<p>A brom&eacute;lia avengardiana, uma planta m&aacute;gica ex&oacute;tica, fornece um muco especial que &eacute; processado para criar um extrato valioso. Cada brom&eacute;lia avengardiana oferece at&eacute; 100g de extrato.</p>
-
-<p><b>Extrato de l&iacute;quor de sombra et&eacute;rea:</b> raridade: 14, 20pp 50ml.</p>
-
-<p>O l&iacute;quor de sombra et&eacute;rea, uma subst&acirc;ncia das regi&otilde;es mais obscuras, &eacute; coletado e processado para criar um extrato alqu&iacute;mico de extrema pot&ecirc;ncia. Cada coleta fornece at&eacute; 50ml de extrato.</p>
-
-<p><b>Dardo alqu&iacute;mico:</b> raridade: 8, 2pp por dardo.</p>
-
-<p>Um dardo especialmente criado e impregnado com subst&acirc;ncias alqu&iacute;micas, capaz de causar efeitos m&aacute;gicos quando lan&ccedil;ado.</p>
-
-<img src="<?=base_url('assets/img/destilando.png')?>" alt="">
-
-<h3>Cat&aacute;logo</h3>
-
-<p>A seguir, apresentamos uma lista de poss&iacute;veis f&oacute;rmulas alqu&iacute;micas em Avengard. O jogador n&atilde;o est&aacute; restrito a esses itens espec&iacute;ficos; ao contr&aacute;rio, incentiva-se a cria&ccedil;&atilde;o de novas f&oacute;rmulas que sejam &uacute;teis para suas aventuras.</p>
-
-<p>Para conceber uma nova f&oacute;rmula, o jogador deve levar em considera&ccedil;&atilde;o as f&oacute;rmulas j&aacute; existentes e criar algo que esteja equilibrado com o comp&ecirc;ndio padr&atilde;o. A decis&atilde;o de ser poss&iacute;vel ou n&atilde;o existir aquela f&oacute;rmula caber&aacute; ao narrador, que far&aacute; a arbitragem.</p>
-
-<p>A busca por uma nova f&oacute;rmula pode, por exemplo, desencadear uma aventura. A tentativa de encontrar um alquimista distante, cujas habilidades s&atilde;o conhecidas por compreender a f&oacute;rmula desejada, pode ser uma narrativa intrigante. Cabe ao narrador oferecer recursos narrativos que justifiquem o personagem aprender essa nova f&oacute;rmula.</p>
-
-<h4>Granada nevoeiro</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>Uma granada que explode silenciosamente, lan&ccedil;ando em segundos uma n&eacute;voa de vapor denso que se extende em um raio de 15 metros a partir do ponto de explos&atilde;o. Avisibilidade &eacute; de meio metro no interior da n&eacute;voa. Dura 15 minutos.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma peteca de couro de 6 cm de di&acirc;metro, &aacute;cido e gordura de basilisco, em uma composi&ccedil;&atilde;o de 10ml de &aacute;cido com 100g de gordura.</p>
-
-<h4>Granada &aacute;cida</h4>
-
-<p><b>Dificuldade:</b> 2</p>
-
-<p>Uma granada que explode silenciosamente, lan&ccedil;ando em segundos uma n&eacute;voa de vapor &aacute;cido denso que se extende em um raio de 15 metros a partir do ponto de explos&atilde;o. quem est&aacute; dentro leva 1d8 de dano &aacute;cido por rodada enquanto permanecer na n&eacute;voa. Ao sair comecar&aacute; a tossir. Pelas pr&oacute;ximas 3 rodadas dever&aacute; fazer um teste de constitui&ccedil;&atilde;o para agir ou perder&aacute; o turno tossindo.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma peteca de couro de 6 cm de di&acirc;metro, &aacute;cido e gordura de basilisco, em uma composi&ccedil;&atilde;o de 100ml de &aacute;cido com 20g de gordura. Dura 5 minutos.</p>
-
-<h4>Granada flamejante</h4>
-
-<p><b>Dificuldade:</b> 4</p>
-
-<p>Uma granada que explode, lan&ccedil;ando em segundos uma nuvem de chamas que se extende em um raio de 5 metros a partir do ponto de explos&atilde;o. quem est&aacute; dentro leva 2d8 de dano de fogo em quem estiver dentro do alcance. A nuvem dura apenas uma rodada. O dano est&aacute; sujeito a prote&ccedil;&atilde;o da armadura.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma peteca de couro de 6 cm de di&acirc;metro, 100ml de extrato de sangue de salamandra.</p>
-
-<img src="<?=base_url('assets/img/explosao.png')?>" alt="">
-
-<h4>Granada neurot&oacute;xica</h4>
-
-<p><b>Dificuldade:</b> 2</p>
-
-<p>Uma granada que explode silenciosamente, lan&ccedil;ando em segundos uma n&eacute;voa impercept&iacute;vel que se extende em um raio de 5 metros a partir do ponto de explos&atilde;o. Dura uma rodada. Quem for exposto deve ter sucesso em um teste de constitui&ccedil;&atilde;o, caso contr&aacute;rio tem 2 de penalidade em todos os testes que exigirem coordena&ccedil;&atilde;o motora, como golpear e se esquivar. Por isso tem sua guarda reduzida em 2 pontos. O efeito dura 3 rodadas.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma peteca de couro de 6 cm de di&acirc;metro, 100g de muco de v&iacute;bora nublada.</p>
-
-<h4>Granada son&iacute;fera</h4>
-
-<p><b>Dificuldade:</b> 2</p>
-
-<p>Uma granada que explode silenciosamente, lan&ccedil;ando em segundos uma n&eacute;voa impercept&iacute;vel que se extende em um raio de 15 metros a partir do ponto de explos&atilde;o. Dura uma rodada. Quem for exposto deve ter sucesso em um teste de constitui&ccedil;&atilde;o, caso contr&aacute;rio vai entrar em sono profundo por 1h. Qualquer toque brusco ou barulho muito alto ir&aacute; acordar quem dorme.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma peteca de couro de 6 cm de di&acirc;metro, 100ml de extrato de sangue de salamandra, 100g de muco de v&iacute;bora nublada e 10ml de extrato do ferr&atilde;o de son&iacute;vorax.</p>
-
-<h4>Ampola el&eacute;trica</h4>
-
-<p><b>Dificuldade:</b> 5</p>
-
-<p>Uma ampola para ser atirada com um estiligue. O alquimista estoura o proj&eacute;til antes de chegar ao alvo. A subst&acirc;ncia causa uma descarga el&eacute;trica causando 1d8 de dano. Armaduras de couro ou roupas de couro e tecido impedem o efeito. O atingido faz um teste de constitui&ccedil;&atilde;o, caso falhe, perde o pr&oacute;ximo turno devido ao efeito do choque.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma ampola feita com casca de nozes e, 10g de extrato do ferr&atilde;o de escorpi&atilde;o el&eacute;trico.</p>
-
-<h4>Ampola corrosiva</h4>
-
-<p><b>Dificuldade:</b> 5</p>
-
-<p>Uma ampola para ser atirada com um estiligue. O alquimista estoura o proj&eacute;til antes de chegar ao alvo. A subst&acirc;ncia ao entrar em contato com o ferro inicia um processo de corros&atilde;o resultando em um processo de ferrugem altamente eficiente, podendo incapacitar armas ou armaduras. Ao ser atingido o alvo faz um teste de karma. Uma falha significa o fim de sua armadura. Ter um escudo ou nao usar armadura metalica, anula os efeitos.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma ampola feita com casca de nozes e, 10g de extrato de saliva de Erodedor Ferruginoso.</p>
-
-<h4>Ampola congelante</h4>
-
-<p><b>Dificuldade:</b> 5</p>
-
-<p>Uma ampola para ser atirada com um estiligue. O alquimista estoura o proj&eacute;til antes de chegar ao alvo. O g&aacute;s resultante do acionamento &eacute; t&atilde;o frio que causa 1d10 dano congalnte ao alvo. Armaduras e roupas quentes anulam o efeito.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma ampola feita com casca de nozes e, 10g de extrato da gl&acirc;ndula de fera g&eacute;lida.</p>
-
-<h4>Lan&ccedil;a-chamas</h4>
-
-<p><b>Dificuldade:</b> 5</p>
-
-<p>Um tubo cil&iacute;ndrico oco, com aproximadamente 40cm de comprimento e 3cm de di&acirc;metro (chamuscador). Em sua base existe um encaixe para se adicionar um novo refil em um processo semelhante a recarga de uma escopeta. A ampola usada &eacute; removida assim que se abre, liberando o espa&ccedil;o para colocar a nova. As ampolas s&atilde;o feitas em um processo semelhante ao da morcilha, uma esp&eacute;cie de lingui&ccedil;a, mas feito com extrato de sangue de salamandra. O dispositivo gera uma labareda com dura&ccedil;&atilde;o de um turno, causando 2d8 de dano de fogo. O comprimento da labareda &eacute; de 1m. O allquimista, com esse dipositivo, e havendo muni&ccedil;&atilde;o, &eacute; capaz de usa-lo todo turno.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>uma ampola feita com intestino de proco e 20ml de extrato de sangue de salamandra. A ampola deve ser defumada como uma lingui&ccedil;a.</p>
-
-<img src="<?=base_url('assets/img/chamuscando.png')?>" alt="">
-
-<h4>Chama verde</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>Uma bucha de pano de 8 cm de di&acirc;metro que pode ser usada como uma tocha, dentro de uma lamparina ou como fogo em uma fogueira ou fogareiro. Mistura-se a gordura de basilisco com o &nbsp;de sangue de salamandra. Ao ser cionado pelo alquimista, gera uma chama esverdeada que dura at&eacute; 24h, e tem uma potencia luminosa de 3 vezes uma tocha normal.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>tiras de pano, 200g de gordura de basilisco e 30 ml de extrato de sangue de salamandra.</p>
-
-<h4>Pergaminho alqu&iacute;mico</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>O alquimista consegue criar uma gama de tintas especiais que mudam seu comportamento dependendo do meio em que s&atilde;o expostas. Algumas tintas somem ao serem aquecidas, outras aparecem, algumas a serem molhadas, outras apenas se a &aacute;gua for salgada. Umas reagem a &aacute;cidos, outras a liquidos mais alcalinos. As combina&ccedil;&otilde;es s&atilde;o in&uacute;meras, e para garantir o sigilo, prepara-se uma s&eacute;rie de contra-medidas que fazem o papel queimar, ou derreter, caso seja exposto a solu&ccedil;&atilde;o errada. Com isso o personagem pode escrever uma mensagem falsa, mas caso o receptor saiba a &quot;senha&quot;, ou seja, a quais elementos expor, poder&aacute; ler a mensagem verdadeira.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>um pergaminho e as tintas alquimicas desejadas.</p>
-
-<h4>Clar&atilde;o</h4>
-
-<p><b>Dificuldade:</b> 2</p>
-
-<p>Em um pequeno vidro, o alquimista coloca o extrato de vagalume avengardiano, extrato de muco de vibora nublada e de ferr&atilde;o de escorpi&atilde;o el&eacute;trico. Ao ser ativado, as subst&acirc;ncias entram em uma combust&atilde;o cujo o resultado &eacute; uma poderosa luz branca capaz de cegar todos os que olharem por uma rodada. Todos os que olharem para o frasco no momento acionado ficam 1 tunro sem ver, e mais dois turnos com 3 de penalidade para qualquer coisa que exija vis&atilde;o. Um teste de ast&uacute;cia pode fazer com que o alvo perceba o que est&aacute; acontecendo e cubra os olhos no momento do acionamento.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>pequeno frasco de vidro, extrato de vagalume avengardiano 10g, 50g extrato de muco de vibora nublada e 20g de extrato de ferr&atilde;o de escorpi&atilde;o el&eacute;trico.</p>
-
-<h4>Bomba S&ocirc;nica</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>Uma esfera explosiva que emite um som ensurdecedor de alta frequ&ecirc;ncia ao ser ativado, causando desorienta&ccedil;&atilde;o a todos que tem audi&ccedil;&atilde;o melhorada, superaudi&ccedil;&atilde;o ou semelhantes. Estes que estiverem em um raio de 30m tem 4 de penalidade durante 1d6 rodadas. Pessoas com audi&ccedil;&atilde;o normal ou pior, s&atilde;o imunes.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>cr&acirc;nio de grilo avengardiano, casca de nozes, 10g extrato de muco de vibora nublada e 5g de extrato de ferr&atilde;o de escorpi&atilde;o el&eacute;trico.</p>
-
-<h4>Po&ccedil;&atilde;o revitalizadora</h4>
-
-<p><b>Dificuldade:</b> 3</p>
-
-<p>Uma po&ccedil;ao que deve ser ativada pelo alquimista segundos antes de se beber. A mistura resultante age no sistema de quem a bebeu em quest&atilde;o de segundos. A po&ccedil;&atilde;o recupera 3d6 de vitalidade de quem a bebeu.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>um frasco de 200ml com 50ml de extrato de sangue de devorador, &aacute;gua, sal e pimenta.</p>
-
-<h4>Po&ccedil;&atilde;o de f&uacute;ria</h4>
-
-<p><b>Dificuldade:</b> 3</p>
-
-<p>Uma po&ccedil;ao que deve ser ativada pelo alquimista segundos antes de se beber. A mistura resultante age no sistema de quem a bebeu em quest&atilde;o de segundos. A po&ccedil;&atilde;o aumenta temporariamente a for&ccedil;a do personagem em 4 pontos. Existe uma chance em seis de o personagem considerar seus aliados como alvos devido sua f&uacute;ria.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>um frasco de 200ml com 10ml de extrato da gl&acirc;ndula do ogro de Hyluia, &aacute;gua, sal e pimenta.</p>
-
-<h4>Po&ccedil;&atilde;o de sorte</h4>
-
-<p><b>Dificuldade:</b> 3</p>
-
-<p>Uma po&ccedil;ao que deve ser ativada pelo alquimista segundos antes de se beber. A mistura resultante age no sistema de quem a bebeu em quest&atilde;o de segundos. Durante 24h quem bebe pode ter sorte. O jogador escolhe um n&uacute;mero de 1 a 4, e sempre que fizer um teste ele joga 1d4. Caso o dado apresente o n&uacute;mero escolhido, pode-se somar + 1d6 no atributo que est&aacute; sendo testado naquela jogada.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>um frasco de 200ml com 30ml de extrato brom&eacute;lia avengardiana, &aacute;gua, sal e pimenta.</p>
-
-<h4>Po&ccedil;&atilde;o de reflexos</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>Uma po&ccedil;ao que deve ser ativada pelo alquimista segundos antes de se beber. A mistura resultante age no sistema de quem a bebeu em quest&atilde;o de segundos. Essa magn&iacute;fica infus&atilde;o garante 4 pontos de destreza tempor&aacute;rios durante at&eacute; 15 min.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>um frasco de 200ml com 30ml de extrato de l&iacute;quor de sombra et&eacute;rea, &aacute;gua, sal e pimenta.</p>
-
-<h4>Col&iacute;rio de Sonivorax</h4>
-
-<p><b>Dificuldade:</b> 3</p>
-
-<p>Um col&iacute;rio que permite que um alquimista veja com muita nitidez em situa&ccedil;&otilde;es onde a luz seja quase zero. A chama de uma vela &eacute; o suficiente para o fazer ver por 20m de dist&acirc;ncia, durante 15min.</p>
-
-<p><b>Composi&ccedil;&atilde;o: </b>um frasco de 20ml com 10ml de extrato das gl&acirc;ndulas lacrimais de son&iacute;vorax. Rende quatro usos.</p>
-
-<h4>Dardo explosivo</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>Uma dardo que explode ao atingir seu alvo, a rea&ccedil;&atilde;o alqu&iacute;mica da composi&ccedil;&atilde;o libera rapidamente uma subst&acirc;ncia pegajosa, expansiva e inflam&aacute;vel que se derrama sobre o alvo causando 2d8 de dano de fogo. O dano est&aacute; sujeito a prote&ccedil;&atilde;o da armadura.</p>
-
-<p><b>Composi&ccedil;&atilde;o:</b> um dardo alqu&iacute;mico, 20ml de extrato de sangue de salamandra, 20g de gordura de basilisco e 10ml de extrato do ferr&atilde;o de escorpi&atilde;o el&eacute;trico.</p>
-
-<h4>Dardo neurot&oacute;xico</h4>
-
-<p><b>Dificuldade:</b> 0</p>
-
-<p>Uma dardo que injeta uma toxina ao atingir seu alvo, a rea&ccedil;&atilde;o alqu&iacute;mica da composi&ccedil;&atilde;o faz com que a toxina seja expelida com press&atilde;o pela ponta do dardo entrando na corrente sangu&iacute;nea. o alvo deve ter sucesso em um teste de constitui&ccedil;&atilde;o, caso contr&aacute;rio tem 2 de penalidade em todos os testes que exigirem coordena&ccedil;&atilde;o motora, como golpear e se esquivar. Por isso tem sua guarda reduzida em 2 pontos. O efeito dura 3 rodadas e &eacute; cumulativo.</p>
-
-<p><b>Composi&ccedil;&atilde;o:</b> um dardo alqu&iacute;mico, 20ml de muco de v&iacute;bora nublada, 20g de gordura de basilisco e 10ml de extrato do ferr&atilde;o de escorpi&atilde;o el&eacute;trico.</p>
-
-<p><br />
-&nbsp;</p>
+<h1>Compendium alqu&iacute;mico</h1>
+
+<p>A alquimia &eacute; uma arte situada na encruzilhada entre a qu&iacute;mica e a magia. Em Avengard, muitas criaturas
+    e algumas plantas mostram uma elevada suscetibilidade ao &Eacute;ter, adquirindo propriedades &uacute;nicas. Uma
+    simples rea&ccedil;&atilde;o qu&iacute;mica revela-se ineficaz diante do &Eacute;ter, e &eacute; aqui que o talento
+    do alquimista se destaca.</p>
+
+<p>O alquimista &eacute; o indiv&iacute;duo com a maior sensibilidade m&aacute;gica em Avengard, estando &agrave; beira
+    da maestria em manipular a magia. Essa habilidade singular permite que ele maneje subst&acirc;ncias impregnadas de
+    &Eacute;ter, ativando rea&ccedil;&otilde;es qu&iacute;micas que s&oacute; ele &eacute; capaz de desencadear. A
+    rea&ccedil;&atilde;o qu&iacute;mica et&eacute;rica &eacute;, de fato, poderosa, mas seu resultado &eacute;
+    ef&ecirc;mero, deteriorando-se rapidamente e sendo dissipado no Miska. Por esse motivo, o alquimista deve preparar
+    sua f&oacute;rmula, ativando-a somente no momento exato de uso para preservar suas propriedades.</p>
+
+<p>Criar itens e receitas exige diversos conhecimentos, e por isso, apenas aqueles que possuem grande sabedoria praticam
+    a alquimia. Ao tentar realizar uma receita, o jogador deve fazer um teste de sabedoria, aplicando a dificuldade da
+    receita como penalidade. Isso significa que o jogador lança um d20, soma a dificuldade da receita ao resultado, e o
+    total deve ser igual ou inferior à sabedoria do alquimista. Quanto menor o resultado em relação à sabedoria, melhor
+    será a qualidade do item produzido. A qualidade de um item alquímico é representada por essa diferença e será usada
+    para calcular o efeito da maioria dos itens alquímicos.</p>
+<p>As habilidades alquímicas seguem o mesmo funcionamento de uma habilidade comum, com o personagem começando no nível
+    zero em todas. Durante os hiatos, é possível evoluí-las até o nível 5, de acordo com as regras de progressão de
+    habilidades.</p>
+
+<!-- <img src="<?=base_url('assets/img/materiais_alquimicos.png')?>" alt=""> -->
+
+<h2>Extraindo Elementos Alquímicos</h2>
+<p>Em Avengard, diversas criaturas e plantas contêm elevadas concentrações de éter. A habilidade <strong>Destilar
+        Componente</strong>, própria do alquimista, permite extrair esses elementos concentrados, que são essenciais
+    para o preparo alquímico. A extração, entretanto, deve ser realizada em um laboratório adequadamente equipado com
+    destiladores, decantadores e outros instrumentos.</p>
+<p>Este compêndio descreve os materiais alquímicos mais comuns, mas os jogadores não precisam se restringir a essa
+    lista. Incentivamos tanto os jogadores quanto os narradores a criarem novas receitas alquímicas, abrindo portas para
+    diferentes formas de extração de componentes. Essas novas receitas não apenas enriquecem o jogo, mas podem também
+    servir de motivação para novas aventuras, especialmente quando há um alquimista no grupo. É fundamental lembrar que
+    a palavra final sobre novas receitas é do narrador, que deve garantir um equilíbrio comparado às fórmulas básicas.
+    Quanto mais raro o componente, mais poderoso pode ser o resultado.</p>
+<p><strong>Extrato de Ácido de Basilisco</strong>: Extremamente perigoso em sua forma natural, seu extrato é altamente
+    controlado e ocupa muito menos volume. Um litro de ácido gera 200ml de extrato. A bolsa de ácido do basilisco,
+    localizada logo abaixo do pescoço, deve ser manuseada com extremo cuidado para evitar rompimentos, pois o conteúdo é
+    altamente corrosivo. Pode ser armazenado na própria bolsa ou em recipientes de vidro.</p>
+<p><strong>Gordura de Basilisco</strong>: Embora a carne do basilisco não seja comestível, sua gordura é valiosa. Até 6
+    quilos de gordura podem ser extraídos, e após processamento em um laboratório ou cozinha, rendem 2 quilos de gordura
+    pura, pronta para uso.</p>
+<p><strong>Extrato de Óleo de Salamandra</strong>: A salamandra possui glândulas em seu abdômen e dorso que contêm um
+    óleo rico em éter. Cerca de 4 quilos de glândulas podem ser processados para obter 1 litro de óleo alquímico.</p>
+<p><strong>Extrato de Muco de Víbora Nublada</strong>: O muco da víbora nublada, uma criatura venenosa e sinuosa, é
+    cuidadosamente processado para gerar um valioso extrato alquímico. De cada víbora, pode-se extrair até 1 quilo de
+    muco, resultando em 200g de extrato.</p>
+<p><strong>Extrato de Glândula de Víbora Nublada</strong>: A víbora nublada possui uma série de glândulas que geram uma
+    toxina que a víbora usa como defesa. De cada víbora, pode-se extrair até 1 quilo de glândulas, resultando em 200ml
+    de extrato.</p>
+<p><strong>Extrato do Ferrão de Escorpião Elétrico</strong>: O ferrão do escorpião elétrico, famoso por sua natureza
+    eletrizante, é usado para criar um líquido condutor especial. Um ferrão de 1kg fornece até 50g de extrato.</p>
+<p><strong>Extrato do Ferrão de Sonívorax</strong>: Este ferrão, retirado de uma criatura que domina habilidades
+    sônicas, é utilizado para criar um extrato valioso. Cada sonívorax fornece 200g de material, resultando em 50g de
+    extrato.</p>
+<p><strong>Extrato das Glândulas Lacrimais de Sonívorax</strong>: As glândulas lacrimais do sonívorax, ricas em éter,
+    produzem um líquido alquímico poderoso. Cada criatura pode fornecer até 50ml de extrato dessas glândulas.</p>
+<p><strong>Extrato de Saliva de Erodedor Ferruginoso</strong>: A saliva corrosiva do Erodedor Ferruginoso é coletada
+    para a criação de um extrato alquímico. Cada criatura pode fornecer até 100ml de extrato.</p>
+<p><strong>Extrato da Glândula de Fera Gélida</strong>: A glândula da fera gélida, uma criatura das regiões geladas, é
+    usada para extrair um líquido especial. Cada fera gélida pode fornecer até 50ml de extrato.</p>
+<p><strong>Extrato da Glândula do Ogro de Hyluia</strong>: A glândula deste robusto ogro é processada para criar um
+    líquido alquímico único. Cada ogro de Hyluia rende até 50ml de extrato.</p>
+<p><strong>Extrato de Vagalume Avengardiano</strong>: O brilho mágico do vagalume avengardiano é capturado e
+    transformado em um extrato luminoso. Cada vagalume rende até 5ml de extrato.</p>
+<p><strong>Extrato de Medula de Devorador</strong>: A medula do devorador contém substâncias etéricas que lhe conferem a
+    habilidade de regeneração. Um devorador pode oferecer 400g de medula, resultando em aproximadamente 200g de extrato.
+</p>
+<p><strong>Extrato de Bromélia Avengardiana</strong>: Esta planta mágica fornece um muco especial que, após processado,
+    gera um extrato valioso. Cada bromélia rende até 10g de extrato.</p>
+<p><strong>Extrato de Líquor de Sombra Etérea</strong>: O líquor de sombra etérea, uma substância colhida nas regiões
+    mais escuras, é um extrato alquímico extremamente potente. Cada coleta rende até 50ml de extrato, que não necessita
+    de processamento adicional.</p>
+<h3>Comprando e vendendo extratos</h3>
+<p>Embora a alquimia não seja tão comum quanto a ferraria ou tecelagem, é possível encontrar um alquimista em qualquer
+    localidade com mais de 500 habitantes. Todo alquimista compra e vende ingredientes, o que é essencial para a
+    continuidade de sua profissão. No entanto, a disponibilidade desses itens varia bastante conforme o tamanho da
+    cidade. Quanto maior a cidade, maior a chance de encontrar o que se busca. Para fins de cálculo, o narrador deve
+    considerar o seguinte: nas maiores cidades, não há penalidades na busca por itens, enquanto nas menores (com 500
+    habitantes ou mais), aplica-se uma penalidade de 5 ao tentar encontrar algo. Para as demais localidades, a
+    penalidade pode variar entre 0 e 5, dependendo da avaliação do narrador. Uma cidade de porte médio, por exemplo,
+    pode impor uma penalidade de 2 ou 3. Essa penalidade é somada à raridade dos itens na tabela abaixo e usada como
+    penalidade para um teste de karma, que pode ser realizado com cada alquimista para determinar se ele possui o item
+    desejado.</p>
+<p>Em relação aos valores dos itens, a tabela apresenta uma expectativa ou média de preço. O narrador e os jogadores
+    podem negociar valores diferentes, dependendo das circunstâncias. Por exemplo, um comerciante estabelecido pode
+    cobrar mais caro, enquanto alguém que está procurando um comprador pode vender por um valor abaixo do preço de
+    mercado.</p>
+<table class="table table-sm">
+    <tr>
+        <th>Extrato</th>
+        <th>Raridade</th>
+        <th>Valor</th>
+        <th>Quantidade</th>
+    </tr>
+    <tr>
+        <td>Extrato de ácido de Basilisco</td>
+        <td>5</td>
+        <td>4pp</td>
+        <td>100ml</td>
+    </tr>
+    <tr>
+        <td>Gordura de Basilisco</td>
+        <td>2</td>
+        <td>1pp</td>
+        <td>200g</td>
+    </tr>
+    <tr>
+        <td>Extrato de óleo de salamandra</td>
+        <td>5</td>
+        <td>1pp</td>
+        <td>100ml</td>
+    </tr>
+    <tr>
+        <td>Extrato de muco de víbora nublada</td>
+        <td>5</td>
+        <td>1pp</td>
+        <td>100g</td>
+    </tr>
+    <tr></tr>
+    <td>Extrato de glândula de víbora nublada</td>
+    <td>5</td>
+    <td>4pp</td>
+    <td>100ml</td>
+    </tr>
+    <tr>
+        <td>Extrato do ferrão de escorpião elétrico</td>
+        <td>8</td>
+        <td>6pp</td>
+        <td>50g</td>
+    </tr>
+    <tr>
+        <td>Extrato do ferrão de Sonívorax</td>
+        <td>9</td>
+        <td>8pp</td>
+        <td>50g</td>
+    </tr>
+    <tr>
+        <td>Extrato das glândulas lacrimais de Sonívorax</td>
+        <td>10</td>
+        <td>12pp</td>
+        <td>50ml</td>
+    </tr>
+    <tr>
+        <td>Extrato de saliva de Erodedor Ferruginoso</td>
+        <td>6</td>
+        <td>2pp</td>
+        <td>100ml</td>
+    </tr>
+    <tr>
+        <td>Extrato da glândula de fera gélida</td>
+        <td>11</td>
+        <td>15pp</td>
+        <td>50ml</td>
+    </tr>
+    <tr>
+        <td>Extrato da glândula do Ogro de Hyluia</td>
+        <td>7</td>
+        <td>5pp</td>
+        <td>50ml</td>
+    </tr>
+    <tr>
+        <td>Extrato de vagalume avengardiano</td>
+        <td>2</td>
+        <td>3pp</td>
+        <td>50ml</td>
+    </tr>
+    <tr>
+        <td>Extrato de medula de Devorador</td>
+        <td>4</td>
+        <td>15pp</td>
+        <td>100ml</td>
+    </tr>
+    <tr>
+        <td>Extrato de Bromélia Avengardiana</td>
+        <td>2</td>
+        <td>2pp</td>
+        <td>100g</td>
+    </tr>
+    <tr>
+        <td>Extrato de líquor de Sombra Etérea</td>
+        <td>9</td>
+        <td>20pp</td>
+        <td>50ml</td>
+    </tr>
+</table>
+
+<!-- <img src="<?=base_url('assets/img/destilando.png')?>" alt=""> -->
+<h2><strong>Granadas de Dispersão</strong></h2>
+<p>Este dispositivo, criado por alquimistas, é capaz de manter o muco da Víbora Nublada em estado sólido ou gasoso,
+    dependendo de sua ativação. A granada é um pequeno cilindro de couro que, quando ativado, converte o muco em gás
+    comprimido devido ao espaço restrito. A pressão interna resulta na liberação do gás em um raio pré-configurado
+    durante a fabricação. O gás, por sua vez, pode transportar outras substâncias misturadas, tornando este dispositivo
+    um excelente pulverizador. Um alquimista pode fabricá-lo em 30 minutos usando couro, 20g de muco de Víbora Nublada e
+    ingredientes adicionais, ou adquiri-lo por 65 cobres de outro alquimista (já contendo o muco). A névoa gerada dura
+    15 minutos em ambientes fechados, 1 minuto em locais abertos com pouco vento e 1 turno em áreas abertas com muito
+    vento.</p>
+<h3><strong>Granada de Dispersão Nebulosa</strong></h3>
+<p>Esta granada libera silenciosamente uma névoa densa, que se espalha em um raio de 15 metros a partir do ponto de
+    ativação. Dentro da névoa, a visibilidade é limitada a apenas meio metro.</p>
+<p><strong>Composição</strong>: 10g de pó de arroz e 20ml de vinagre.</p>
+<p><strong>Dificuldade</strong>: 0</p>
+<h3><strong>Granada de Dispersão Ácida</strong></h3>
+<p>Lança uma névoa de vapor ácido que se estende em um raio de 8 metros. Qualquer criatura dentro da névoa recebe dano
+    ácido a cada rodada enquanto estiver exposta. Ao sair, a vítima começará a tossir, devendo realizar testes de
+    constituição pelas próximas 3 rodadas para conseguir agir, ou perderá o turno tossindo. O dano é de 1d4 + qualidade
+    do alquimista.</p>
+<p><strong>Composição</strong>: 20ml de extrato de ácido de Basilisco.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3><strong>Granada de Dispersão Flamejante</strong></h3>
+<p>Em questão de segundos, esta granada libera uma nuvem de fogo que atinge um raio de 5 metros. Qualquer um na área de
+    efeito sofre 2d6 + qualidade de dano de fogo. A nuvem de chamas dura apenas uma rodada, e o dano pode ser reduzido
+    pela armadura.</p>
+<p><strong>Composição</strong>: 20ml de extrato de óleo de Salamandra Flamejante.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3><strong>Granada de Dispersão Neurotóxica</strong></h3>
+<p>Esta granada solta uma névoa invisível que se espalha em um raio de 5 metros, durando uma rodada. Qualquer um exposto
+    deve passar em um teste de constituição com dificuldade igual à qualidade do alquimista, ou sofrerá uma penalidade
+    de 2 em testes de destreza e perderá 2 pontos de guarda. O efeito dura em rodadas de acordo com o quanto faltou para
+    passar no teste, com um mínimo de uma rodada.</p>
+<p><strong>Composição</strong>: 20ml de extrato de glândula de Víbora Nublada.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3><strong>Granada de Dispersão Sonífera</strong></h3>
+<p>Libera uma névoa imperceptível que se espalha por um raio de 15 metros. Quem for exposto deve passar em um teste de
+    constituição com penalidade igual à qualidade do alquimista, ou entrará em sono profundo por 1 hora. Qualquer
+    barulho alto ou toque abrupto acordará o afetado. Não funciona em quem está sob efeito de adrenalina, como em
+    combate.</p>
+<p><strong>Composição</strong>: 10ml de extrato do ferrão de Sonívorax.</p>
+<p><strong>Dificuldade</strong>: 0</p>
+
+<h2>Ampolas</h2>
+<p>Ampolas são essencialmente tubos de ensaio de vidro que o alquimista utiliza quando deseja atingir um alvo com a
+    substância contida nelas. Ao atingir o alvo, o vidro se quebra, derramando o líquido desejado sobre ele. Uma vez
+    banhado, o alquimista ativa a mistura. Essas ampolas de vidro são itens comuns, custando 15 cobres cada uma, e podem
+    ser encontradas em praticamente qualquer mercado de utensílios domésticos. É comum identificar um alquimista pela
+    bandoleira atravessada no peito, cheia de ampolas coloridas.</p>
+<p>Para lançar as ampolas com as mãos, o jogador deve testar a destreza do personagem. A distância máxima de arremesso
+    fora de combate é igual à força do personagem em metros, e dentro de combate é equivalente a uma rodada de
+    distância. Se o jogador desejar maior alcance ou preferir usar sabedoria no lugar de destreza para o arremesso, ele
+    pode utilizar um estilingue, disponível por 40 cobres em qualquer lugar. Com o estilingue, o teste pode ser
+    realizado com o atributo sabedoria, e a distância máxima será três vezes maior do que a do arremesso manual.</p>
+<h3>Ampola Elétrica</h3>
+<p>Quando o alquimista aciona a ampola ao atingir o alvo, a substância libera uma descarga elétrica que causa 1d8 +
+    qualidade de dano. O gibão de peles e armaduras de couro protegem contra o efeito. O alvo deve fazer um teste de
+    constituição com penalidade igual à qualidade da ampola. Se falhar, ele perde o próximo turno devido ao choque.</p>
+<p><strong>Composição</strong>: 80ml de azeite, 10ml de vinagre e 10g de extrato do ferrão de Escorpião Elétrico.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3>Ampola Corrosiva</h3>
+<p>Quando o alquimista quebra a ampola ao atingir o alvo, a substância inicia um processo de corrosão ao entrar em
+    contato com ferro, promovendo uma ferrugem acelerada capaz de danificar armas e armaduras. O alvo deve realizar um
+    teste de karma, com penalidade equivalente à qualidade da ampola. Falhar no teste causa danos à armadura. O uso de
+    escudo ou a ausência de armadura metálica anula os efeitos. O dano à armadura é determinado pela diferença entre o
+    resultado do teste e o sucesso necessário. Esse dano pode ser aplicado reduzindo os pontos de proteção ou guarda,
+    até que o total de redução seja equivalente ao dano causado.</p>
+<p><strong>Composição</strong>: 80ml de azeite, 10ml de vinagre e 10g de extrato de saliva de Erodedor Ferruginoso.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3>Ampola Congelante</h3>
+<p>Ao atingir o alvo, o gás liberado pela ampola é tão frio que causa 1d6 + qualidade de dano congelante. Roupas quentes
+    ou armaduras anulam o efeito. Se o alvo estiver sem escudo e usando armadura metálica, essa armadura ficará
+    vulnerável por uma rodada, permitindo que qualquer golpe contusivo com uma arma metálica cause dano diretamente à
+    armadura, e o restante, ao alvo. O dano à armadura reduz os pontos de proteção e guarda.</p>
+<p><strong>Composição</strong>: 40ml de azeite, 10ml de vinagre, 20g de muco de Víbora Nublada e 10g de extrato da
+    glândula de Fera Gélida.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3>Ampola flamejante</h3>
+<p>Quando o alquimista ativa a ampola ao atingir o alvo, o óleo nela contido adere à superfície impactada. Ao ser
+    acionada, a substância pegajosa começa a aquecer intensamente, causando 1d6 de dano por rodada. O dano é mitigado
+    pela proteção da armadura. A duração do efeito, em rodadas, é equivalente à qualidade da ampola. O teste de acerto
+    para esta ampola deve levar em consideração a penalidade da guarda do alvo.</p>
+<p><strong>Composição</strong>: 80ml de azeite, 10ml de vinagre e 20ml de extrato de óleo de Salamandra Flamejante.</p>
+<p><strong>Dificuldade</strong>: 4</p>
+<h3>Ampola Luminex</h3>
+<p>Quando o alquimista ativa a ampola após ela atingir a altura desejada, as substâncias nela contidas entram em
+    combustão, gerando uma intensa luz branca capaz de cegar temporariamente todos que a observarem. Aqueles que olharem
+    para o frasco no momento da ativação ficarão cegos por 1 turno e sofrerão uma penalidade de -3 em qualquer ação que
+    exija visão por mais 2 turnos. Um teste de sabedoria com penalidade -5 pode permitir que o alvo perceba o que está
+    acontecendo e cubra os olhos no momento da ativação.</p>
+<p><strong>Composição</strong>: 10g de extrato de vagalume avengardiano, 50g de extrato de muco de víbora nublada e 20g
+    de extrato de ferrão de escorpião elétrico.</p>
+<p><strong>Dificuldade</strong>: 6</p>
+
+<h2>Lança-chamas</h2>
+<p>O lança-chamas é uma arma exclusiva do alquimista, pois somente ele possui a habilidade necessária para ativar os
+    elementos que produzem a combustão controlada. A arma se assemelha a uma besta grande, sem o arco. Na parte
+    superior, onde normalmente estaria o virote, há duas garrafas de vidro contendo os extratos necessários. Essas
+    garrafas estão conectadas por uma mangueira metálica bifurcada a um tubo metálico que atravessa o corpo de madeira,
+    saindo pela parte frontal. A arma possui um gatilho que libera os extratos das garrafas, misturando-os dentro do
+    cano, tornando-os sensíveis à ativação do alquimista.</p>
+<p>Disparar com essa arma não requer testes, pois o acerto é garantido. No entanto, sua precisão é limitada. Ao atirar
+    em um alvo, todos os que estiverem próximos ou engajados com ele também sofrerão dano.</p>
+<p>O lança-chamas causa 2d8 de dano tanto ao alvo quanto aos alvos colaterais, como mencionado. As garrafas comportam
+    até 200ml de extrato de óleo de salamandra e 200ml de extrato de muco de víbora nublada, preparado com 100g de muco
+    diluído em 100ml de vinagre. Cada disparo consome 20ml de cada garrafa, permitindo até dez disparos com as garrafas
+    totalmente cheias.</p>
+<p>Embora o alquimista não possa fabricar um lança-chamas, um ferreiro habilidoso pode produzir as peças necessárias
+    para que o alquimista monte a arma. O custo desse trabalho é estimado em cerca de 4 mil cobres.</p>
+
+<!-- <img src="<?=base_url('assets/img/chamuscando.png')?>" alt=""> -->
+
+<h2>Chama Verde</h2>
+<p><strong>Dificuldade</strong>: 0</p>
+<p>A Chama Verde é uma bucha de pano com 8 cm de diâmetro, que pode ser utilizada como tocha, inserida em uma lamparina,
+    ou como combustível em uma fogueira ou fogareiro. Para prepará-la, mistura-se gordura de basilisco com extrato de
+    sangue de salamandra. Quando acionada pelo alquimista, a bucha emite uma chama esverdeada que dura até 24 horas e
+    tem uma intensidade luminosa três vezes superior à de uma tocha comum.</p>
+<p><strong>Composição</strong>: Tiras de pano, 200g de gordura de basilisco e 30 ml de extrato de sangue de salamandra.
+</p>
+<h2>Tinta Alquímica</h2>
+<p><strong>Dificuldade</strong>: 0</p>
+<p>O alquimista é capaz de criar uma variedade de tintas especiais que alteram seu comportamento conforme o meio ao qual
+    são expostas. Algumas tintas desaparecem com o calor, enquanto outras aparecem. Certas tintas surgem quando entram
+    em contato com água, mas somente se ela for salgada. Outras reagem a ácidos ou a líquidos alcalinos. As combinações
+    são infinitas, e para proteger o segredo, adicionam-se contra-medidas que fazem a tinta queimar ou se desintegrar se
+    exposta ao elemento errado. Com essa técnica, o alquimista pode escrever uma mensagem falsa, mas se o destinatário
+    souber a "senha", ou seja, os elementos corretos para exposição, a mensagem verdadeira será revelada.</p>
+<p><strong>Composição</strong>: O alquimista pode usar múltiplas plantas ao seu dispor para buscar o efeito desejado.
+    Sem custo.</p>
+
+<h2>Bomba Sônica</h2>
+<p><strong>Dificuldade</strong>: 0</p>
+<p>Este dispositivo emite um som ensurdecedor de alta frequência ao ser ativado, causando desorientação em todos os que
+    estiverem dentro de um raio de 30 metros e não protegerem os ouvidos. Os afetados devem realizar um teste de
+    constituição com uma penalidade igual à qualidade da bomba. Em caso de falha, os indivíduos ficarão surdos e terão
+    sua guarda reduzida em 1 ponto por uma quantidade de turnos equivalente à diferença no teste de constituição.</p>
+<p><strong>Composição</strong>: Crânio de grilo avengardiano, casca de nozes, 10g de extrato de muco de víbora nublada e
+    5g de extrato de ferrão de escorpião elétrico.</p>
+<h2>Colírio de Sonivorax</h2>
+<p><strong>Dificuldade</strong>: 3</p>
+<p>Este colírio permite ao alquimista enxergar com extrema clareza em condições de quase total escuridão. A luz de uma
+    vela é suficiente para garantir visão clara até 20 metros de distância, durante 15 minutos. A quantidade de usos que
+    o colírio proporciona é equivalente à qualidade do acerto.</p>
+<p><strong>Composição</strong>: Um frasco de 20ml contendo 10ml de extrato das glândulas lacrimais de sonívorax.</p>
+
+<h2>Poções</h2>
+<p>As poções são misturas criadas por alquimistas que afetam o sistema de quem as consome. O alquimista deve ativar a
+    poção antes de administrá-la a si mesmo ou a outros, pois sem essa ativação, a poção não terá efeito. Se um
+    alquimista estiver desmaiado, ele não conseguirá ativar suas próprias poções. As poções são armazenadas em frascos
+    de vidro de 100ml, semelhantes às ampolas.</p>
+<h3><strong>Poção Revitalizadora</strong></h3>
+<p><strong>Dificuldade</strong>: 3</p>
+<p>Esta poção age rapidamente no organismo de quem a bebe, restaurando 2d6 + qualidade de vitalidade.</p>
+<p><strong>Composição</strong>: 50ml de extrato de sangue de devorador, água, sal e pimenta.</p>
+<h3><strong>Poção de Fúria</strong></h3>
+<p><strong>Dificuldade</strong>: 3</p>
+<p>Deve ser ativada pelo alquimista segundos antes de ser ingerida. A poção dobra os resultados dos dados de ataque
+    baseados na força e tem efeito por um número de rodadas igual à sua qualidade.</p>
+<p><strong>Composição</strong>: 10ml de extrato da glândula do ogro de Hyluia, água, sal e pimenta.</p>
+<h3><strong>Poção de Sorte</strong></h3>
+<p><strong>Dificuldade</strong>: 3</p>
+<p>Concede sorte durante 24 horas. O personagem ganha um bônus de 1d6 durante um número de horas igual à qualidade da
+    poção.</p>
+<p><strong>Composição</strong>: 30ml de extrato de bromélia avengardiana, água, sal e pimenta.</p>
+<h3><strong>Poção de Reflexos</strong></h3>
+<p><strong>Dificuldade</strong>: 0</p>
+<p>Esta poção magnífica proporciona 4 pontos temporários de destreza e tem efeito por um número de minutos igual à sua
+    qualidade.</p>
+<p><strong>Composição</strong>: 30ml de extrato de líquor de sombra etérea, água, sal e pimenta.</p>

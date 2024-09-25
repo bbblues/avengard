@@ -35,12 +35,12 @@
 		      <li class="nav-item <?=($menu == 'home') ? 'active' : ''?>">
 		        <a class="nav-link" href="<?php echo site_url() ?>">Home</span></a>
 		      </li>
-		      <li class="nav-item <?=($menu == 'bestiario') ? 'active' : ''?>">
+		      <!-- <li class="nav-item <?=($menu == 'bestiario') ? 'active' : ''?>">
 		        <a class="nav-link" href="<?php echo site_url('bestiario') ?>">Bestiário</a>
-		      </li>
-		      <li class="nav-item <?=($menu == 'sistema') ? 'active' : ''?>">
+		      </li> -->
+		      <!-- <li class="nav-item <?=($menu == 'sistema') ? 'active' : ''?>">
 		        <a class="nav-link" href="<?php echo site_url('sistema') ?>">Regras <span class="beta">BETA</span></a>
-		      </li>
+		      </li> -->
 		    </ul>
 		  </div>
 		</div>
@@ -84,17 +84,8 @@
 		<footer>
 			<div class="container">
 				<div class="row">
-					<div class="col col-md-12">
-						<a href="https://www.facebook.com/avengardrpg" target="_blank">
-							<img src="<?php echo base_url('assets/img/facebook.svg') ?>" alt="">
-							<span>Facebook</span>
-						</a>
-						<br>
-						<a href="https://twitter.com/brunoavengard" target="_blank">
-							<img src="<?php echo base_url('assets/img/twitter.svg') ?>" alt="">
-							<span>Twitter</span>
-						</a>
-					</div>
+					Este material é livre para uso. Seu conteúdo pode ser livremente copiado e distribuído. É vetado o uso de parte ou total em qualquer outro material ou documento sem consentimento prévio, e sua venda é expressamente proibida.<br><br>
+					<a target="_blank" href="https://www.threads.net/@avengardrpg">Nosso Threads</a>
 				</div>
 			</div>
 		</footer>

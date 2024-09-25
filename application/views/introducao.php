@@ -1,4 +1,4 @@
-<h2>Introdu&ccedil;&atilde;o</h2>
+<h1>Introdu&ccedil;&atilde;o</h1>
 
 <p>Estas s&atilde;o as regras de um jogo de RPG anal&oacute;gico que podem ser utilizadas tanto em sess&otilde;es presenciais quanto online. A sigla RPG deriva do termo em ingl&ecirc;s &quot;role-playing game&quot;, que significa jogo de interpreta&ccedil;&atilde;o de pap&eacute;is. Para participar, &eacute; necess&aacute;rio um grupo de duas ou mais pessoas, sendo que quatro a cinco pessoas constituem uma quantidade ideal.</p>
 
@@ -22,9 +22,9 @@
 
 <p>As regras existem para que as resolu&ccedil;&otilde;es dos atos n&atilde;o sejam arbitr&aacute;rias, gerando imprevisibilidade e, consequentemente, aumentando a divers&atilde;o. No exemplo anterior, quando o jogador 3 menciona que vai desviar do fragmento de janela, como determinar se o personagem dele conseguiu ou n&atilde;o? Nestes casos, o narrador utilizar&aacute; as regras do jogo como ferramentas para definir essas resolu&ccedil;&otilde;es. Se o personagem for &aacute;gil, ter&aacute; maior probabilidade de se desviar do perigo, tornando assim o resultado da escolha do jogador imprevis&iacute;vel.</p>
 
-<img src="<?=base_url('assets/img/ataque_ogro.png')?>" alt="">
+<!-- <img src="<?=base_url('assets/img/ataque_ogro.png')?>" alt=""> -->
 
-<h3>O que &eacute; Avengard</h3>
+<h2>O que &eacute; Avengard</h2>
 
 <p>Um jogo de RPG pode se desenrolar em qualquer cen&aacute;rio, desde algo futur&iacute;stico, com naves espaciais e sabres de luz, at&eacute; algo contempor&acirc;neo e urbano, ou at&eacute; mesmo no universo do seu anime favorito. Avengard &eacute; um RPG de fantasia medieval p&oacute;s-apocal&iacute;ptica, focado em explora&ccedil;&atilde;o e sobreviv&ecirc;ncia, e suas regras foram especificamente elaboradas para esse prop&oacute;sito. Embora seja poss&iacute;vel usar as regras de Avengard para jogar em outros cen&aacute;rios, demandar&aacute; que o narrador fa&ccedil;a algumas adapta&ccedil;&otilde;es.</p>
 
@@ -44,24 +44,16 @@
 
 <p>O cen&aacute;rio de Avengard situa-se 400 anos ap&oacute;s a chegada dos primeiros colonizadores. As maiores cidades encontram-se no litoral, enquanto o interior de Avengard ainda permanece um mist&eacute;rio. As ilhas sat&eacute;lites s&atilde;o os lugares mais seguros, pois Avengard est&aacute; tomada por carni&ccedil;ais e outras criaturas extremamente perigosas. Nesse contexto ca&oacute;tico, os narradores podem encontrar inspira&ccedil;&atilde;o para desenvolverem suas aventuras.</p>
 
-<img src="<?=base_url('assets/img/cidade_costeira.png')?>" alt="">
+<!-- <img src="<?=base_url('assets/img/cidade_costeira.png')?>" alt=""> -->
 
-<h3>Sess&atilde;o, aventura, campanha e hiatos</h3>
+<h2>Sess&atilde;o, aventura, campanha e hiatos</h2>
 
 <p>Sempre que um grupo de pessoas se re&uacute;ne para jogar RPG, isso &eacute; considerado uma sess&atilde;o. Inicia quando os participantes se encontram e termina quando se separam. J&aacute; uma aventura pode durar uma ou mais sess&otilde;es, relacionando-se com o arco narrativo abordado e um objetivo a ser alcan&ccedil;ado. Uma campanha &eacute; um conjunto de aventuras para um mesmo grupo de personagens, mantendo um n&uacute;cleo mesmo que ocorram mudan&ccedil;as de personagens devido &agrave; morte ou aus&ecirc;ncia de jogadores. Uma campanha n&atilde;o necessariamente precisa ter um fim ou um objetivo definido, mas muitos narradores gostam de conectar arcos de aventura a um grande arco de campanha, tornando a experi&ecirc;ncia mais envolvente.</p>
 
 <p>Em Avengard, quando os personagens se separam para trabalhar ou treinar, isso &eacute; considerado um hiato. Um hiato deve ocorrer no intervalo de sess&otilde;es, mas nem todo intervalo ser&aacute; um hiato. Um momento prop&iacute;cio para um hiato &eacute; entre aventuras, onde os personagens se despedem, passam tr&ecirc;s meses desenvolvendo suas habilidades e depois se re&uacute;nem para iniciar uma nova aventura.</p>
 
-<h3>Como jogar</h3>
+<h2>Como jogar</h2>
 
 <p>Para jogar Avengard, &eacute; necess&aacute;rio ter l&aacute;pis, borracha, papel e um kit de dados contendo dados de 4, 6, 8, 10, 12 e 20 faces, chamados respectivamente de d4, d6, d8, d10, d12 e d20. Cada jogador deve imprimir uma ficha de personagem em branco e preench&ecirc;-la com os dados do seu personagem. Depois de cri&aacute;-lo, basta entreg&aacute;-lo ao narrador, que elaborar&aacute; uma aventura envolvendo os personagens criados.</p>
 
 <p>Uma partida de RPG pode ocorrer com os participantes reunidos em uma mesa de sala ou por meio de programas que simulam jogos presenciais, conectando os participantes online. Independentemente da forma adotada, a mec&acirc;nica de jogo permanece a mesma.</p>
-
-<h4>Criando um personagem</h4>
-
-<p>A cria&ccedil;&atilde;o de um personagem &eacute; relativamente simples. Cada jogador deve imprimir uma ficha em branco e preench&ecirc;-la com os dados do seu personagem. A primeira decis&atilde;o &eacute; escolher uma classe, com detalhes dispon&iacute;veis no cap&iacute;tulo correspondente. Em seguida, preenchem-se os outros elementos do personagem, descritos no cap&iacute;tulo com o mesmo nome.</p>
-
-<h4>Compreendendo o cen&aacute;rio</h4>
-
-<p>Para enriquecer a constru&ccedil;&atilde;o narrativa entre narrador e jogadores, &eacute; crucial que ambos conhe&ccedil;am o continente de Avengard, lendo o material dispon&iacute;vel na se&ccedil;&atilde;o de cen&aacute;rio. Ter um entendimento claro do local em que jogam &eacute; fundamental para tomar decis&otilde;es coerentes para seus personagens.</p>
